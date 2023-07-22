@@ -3,18 +3,18 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: 'Edison的跑步生涯',
+    siteTitle: '餘小冨的跑步生涯',
     siteUrl: 'https://mytrack.run',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    logo: 'https://postimg.cc/delete/yGnr3R8h/fa86f5fb',
     description: 'Personal site and blog',
     navLinks: [
       {
-        name: 'Blog',
-        url: 'https://mytrack.run',
+        name: 'Strava',
+        url: 'https://www.strava.com/athletes/34449231',
       },
       {
-        name: 'About',
-        url: 'https://mytrack.run',
+        name: 'SmashRun',
+        url: 'https://zh-tw.smashrun.com/yuxuefu/run/34630160',
       },
     ],
   },
