@@ -3,10 +3,11 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: '餘小冨的跑步生涯',
+    siteTitle: '餘小冨的运动地图',
     siteUrl: 'https://mytrack.run',
-    logo: 'https://postimg.cc/delete/yGnr3R8h/fa86f5fb',
+    logo: 'https://img1.imgtp.com/2023/07/23/xdyH1D7i.png',
     description: 'Personal site and blog',
+    keywords: 'workouts, running, cycling, riding, hiking',
     navLinks: [
       {
         name: 'Strava',
