@@ -25,7 +25,7 @@ const MAP_LAYER_LIST = [
 ];
 
 // styling: set to `true` if you want dash-line route
-const USE_DASH_LINE = true;
+const USE_DASH_LINE = false;
 // styling: route line opacity: [0, 1]
 const LINE_OPACITY = 0.4;
 // styling: map height
@@ -113,7 +113,7 @@ const red = 'rgb(255,0,0)';//大红色
 export const NEED_FIX_MAP = false;
 export const MAIN_COLOR = green;
 export const RUN_COLOR = yellow;
-export const RIDE_COLOR = green;
+export const RIDE_COLOR = red;
 export const VIRTUAL_RIDE_COLOR = veryPeri;
 export const HIKE_COLOR = pink;
 export const SWIM_COLOR = gold;
