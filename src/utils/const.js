@@ -25,7 +25,7 @@ const MAP_LAYER_LIST = [
 ];
 
 // styling: set to `true` if you want dash-line route
-const USE_DASH_LINE = true;
+const USE_DASH_LINE = false;
 // styling: route line opacity: [0, 1]
 const LINE_OPACITY = 0.4;
 // styling: map height
@@ -51,6 +51,7 @@ const INFO_MESSAGE = IS_CHINESE ? CHINESE_INFO_MESSAGE : ENGLISH_INFO_MESSAGE;
 const FULL_MARATHON_RUN_TITLE = IS_CHINESE ? '全程马拉松' : 'Full Marathon';
 const HALF_MARATHON_RUN_TITLE = IS_CHINESE ? '半程马拉松' : 'Half Marathon';
 const RUN_TITLE = IS_CHINESE ? '跑步' : 'Run';
+
 const RIDE_TITLE = IS_CHINESE ? '骑行' : 'Ride';
 const HIKE_TITLE = IS_CHINESE ? '徒步' : 'Hike';
 
@@ -58,6 +59,7 @@ const RUN_TITLES = {
   FULL_MARATHON_RUN_TITLE,
   HALF_MARATHON_RUN_TITLE,
   RUN_TITLE,
+  
   RIDE_TITLE,
   HIKE_TITLE,
 };

@@ -3,7 +3,15 @@ import gcoord from 'gcoord';
 import { WebMercatorViewport } from 'react-map-gl';
 import { chinaGeojson } from 'src/static/run_countries';
 import { chinaCities } from 'src/static/city';
-import { MUNICIPALITY_CITIES_ARR, NEED_FIX_MAP, RUN_TITLES } from './const';
+import {
+  MUNICIPALITY_CITIES_ARR,
+  NEED_FIX_MAP,
+  RUN_TITLES,
+  MAIN_COLOR,
+  RIDE_COLOR,
+  HIKE_COLOR,
+  RUN_COLOR,
+} from './const';
 
 const titleForShow = (run) => {
   const date = run.start_date_local.slice(0, 11);
@@ -146,37 +154,56 @@ const geoJsonForRuns = (runs) => ({
       geometry: {
         type: 'LineString',
         coordinates: points,
+        workoutType: run.type,
       },
+      properties: {
+        'color': colorFromType(run.type),
+      },
+      name: run.name,
     };
   }),
 });
 
 const geoJsonForMap = () => chinaGeojson;
 
+const titleForType = (type) => {
+  switch (type) {
+    case 'Run':
+      return RUN_TITLES.RUN_TITLE;
+    case 'Ride':
+      return RUN_TITLES.RIDE_TITLE;
+    case 'Hike':
+      return RUN_TITLES.HIKE_TITLE;
+    default:
+      return RUN_TITLES.RUN_TITLE;
+  }
+}
 const titleForRun = (run) => {
-  const runDistance = run.distance / 1000;
-  const runHour = +run.start_date_local.slice(11, 13);
-  if (runDistance > 20 && runDistance < 40) {
-    return RUN_TITLES.HALF_MARATHON_RUN_TITLE;
+  const type = run.type;
+  if (type == 'Run'){
+      const runDistance = run.distance / 1000;
+      if (runDistance >= 40) {
+        return RUN_TITLES.FULL_MARATHON_RUN_TITLE;
+      }
+      else if (runDistance > 20) {
+        return RUN_TITLES.HALF_MARATHON_RUN_TITLE;
+      }
   }
-  if (runDistance >= 40) {
-    return RUN_TITLES.FULL_MARATHON_RUN_TITLE;
-  }
-  if (runHour >= 0 && runHour <= 10) {
-    return RUN_TITLES.MORNING_RUN_TITLE;
-  }
-  if (runHour > 10 && runHour <= 14) {
-    return RUN_TITLES.MIDDAY_RUN_TITLE;
-  }
-  if (runHour > 14 && runHour <= 18) {
-    return RUN_TITLES.AFTERNOON_RUN_TITLE;
-  }
-  if (runHour > 18 && runHour <= 21) {
-    return RUN_TITLES.EVENING_RUN_TITLE;
-  }
-  return RUN_TITLES.NIGHT_RUN_TITLE;
+  return titleForType(type);
 };
 
+const colorFromType = (workoutType) => {
+  switch (workoutType) {
+    case 'Run':
+      return RUN_COLOR;
+    case 'Ride':
+      return RIDE_COLOR;
+    case 'Hike':
+      return HIKE_COLOR;
+    default:
+      return MAIN_COLOR;
+  }
+};
 const applyToArray = (func, array) => func.apply(Math, array);
 const getBoundsForGeoData = (geoData) => {
   const { features } = geoData;
