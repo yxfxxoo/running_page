@@ -38,7 +38,7 @@ const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength, year) => {
   const yearStr = year === 'Total' ? '所有' : ` ${year} `;
-  return `我用Nike+、TomTom、Suunto、Garmin、Strava等设备软件 记录自己运动轨迹 ${yearLength} 年了，下面列表展示的是${yearStr}的运动轨迹`;
+  return `我用Nike+、TomTom、Suunto、Garmin、Strava等设备软件 记录自己运动轨迹 ${yearLength} 年了，右边窗口展示的是${yearStr}的运动轨迹。`;
 }
 const ENGLISH_INFO_MESSAGE = (yearLength, year) =>
   `Logged ${yearLength} Years of Outdoor Journey` +  ( year === 'Total' ? '' : `, the map show routes in ${year}`);
