@@ -3,11 +3,11 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: '餘小冨的运动地图',
+    siteTitle: 'Edison s Workouts Map',
     siteUrl: 'https://mytrack.run',
     logo: 'https://img1.imgtp.com/2023/07/23/xdyH1D7i.png',
-    description: 'Personal site and blog',
-    keywords: 'workouts, running, cycling, riding, hiking',
+    description: 'Personal Workouts Page',
+    keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
       {
         name: 'Strava',

@@ -4,6 +4,7 @@ import sys
 
 import arrow
 import stravalib
+from config import MAPPING_TYPE
 from gpxtrackposter import track_loader
 from sqlalchemy import func
 
@@ -63,6 +64,7 @@ class Generator:
                 continue
             if IGNORE_BEFORE_SAVING:
                 activity.summary_polyline = filter_out(activity.summary_polyline)
+            activity.source = "strava"
             created = update_or_create_activity(self.session, activity)
             if created:
                 sys.stdout.write("+")
@@ -85,6 +87,16 @@ class Generator:
             else:
                 sys.stdout.write(".")
             sys.stdout.flush()
+
+        self.session.commit()
+
+    def sync_from_kml_track(self, track):
+        created = update_or_create_activity(self.session, track.to_namedtuple())
+        if created:
+            sys.stdout.write("+")
+        else:
+            sys.stdout.write(".")
+        sys.stdout.flush()
 
         self.session.commit()
 
@@ -133,6 +145,37 @@ class Generator:
             last_date = date
             if not IGNORE_BEFORE_SAVING:
                 activity.summary_polyline = filter_out(activity.summary_polyline)
+            activity_list.append(activity.to_dict())
+
+        return activity_list
+
+    def loadForMapping(self):
+        activities = (
+            self.session.query(Activity)
+            .filter(Activity.type.in_(MAPPING_TYPE))
+            .order_by(Activity.start_date_local)
+        )
+        activity_list = []
+
+        streak = 0
+        last_date = None
+        for activity in activities:
+            # Determine running streak.
+            # if activity.type == "Run" or activity.type == "Walk":
+            date = datetime.datetime.strptime(
+                activity.start_date_local, "%Y-%m-%d %H:%M:%S"
+            ).date()
+            if last_date is None:
+                streak = 1
+            elif date == last_date:
+                pass
+            elif date == last_date + datetime.timedelta(days=1):
+                streak += 1
+            else:
+                assert date > last_date
+                streak = 1
+            activity.streak = streak
+            last_date = date
             activity_list.append(activity.to_dict())
 
         return activity_list

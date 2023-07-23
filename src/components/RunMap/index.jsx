@@ -9,6 +9,7 @@ import {
   MAIN_COLOR,
   MAPBOX_TOKEN,
   PROVINCE_FILL_COLOR,
+  COUNTRY_FILL_COLOR,
   USE_DASH_LINE,
   LINE_OPACITY,
   MAP_HEIGHT,
@@ -26,7 +27,7 @@ const RunMap = ({
   geoData,
   thisYear,
 }) => {
-  const { provinces } = useActivities();
+  const { countries, provinces } = useActivities();
   const mapRef = useRef();
   const mapRefCallback = useCallback(
     (ref) => {
@@ -49,8 +50,10 @@ const RunMap = ({
     [mapRef]
   );
   const filterProvinces = provinces.slice();
+  const filterCountries = countries.slice();
   // for geojson format
   filterProvinces.unshift('in', 'name');
+  filterCountries.unshift('in', 'name');
 
   const isBigMap = viewport.zoom <= 3;
   if (isBigMap && IS_CHINESE) {
@@ -92,14 +95,24 @@ const RunMap = ({
           type="fill"
           paint={{
             'fill-color': PROVINCE_FILL_COLOR,
+            'fill-opacity': 0.2,
           }}
           filter={filterProvinces}
+        />
+        <Layer
+          id="countries"
+          type="fill"
+          paint={{
+            'fill-color': COUNTRY_FILL_COLOR,
+            'fill-opacity': 0.5,
+          }}
+          filter={filterCountries}
         />
         <Layer
           id="runs2"
           type="line"
           paint={{
-            'line-color': MAIN_COLOR,
+            'line-color': ['get', 'color'],
             'line-width': isBigMap ? 1 : 2,
             'line-dasharray': dash,
             'line-opacity': isSingleRun ? 1 : LINE_OPACITY,

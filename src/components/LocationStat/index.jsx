@@ -8,8 +8,8 @@ import CitiesStat from './CitiesStat';
 import LocationSummary from './LocationSummary';
 import PeriodStat from './PeriodStat';
 
-const LocationStat = ({ changeYear, changeCity, changeTitle }) => (
-  <div className="w-100 w-100-l pb5 pr5-l">
+const LocationStat = ({ changeYear, changeCity, changeType }) => (
+  <div className="w-100-l pb5 pr5-l">
     <section className="pb4" style={{ paddingBottom: '0rem' }}>
       <p style={{ lineHeight: 1.8 }}>
         {CHINESE_LOCATION_INFO_MESSAGE_FIRST}
@@ -25,7 +25,7 @@ const LocationStat = ({ changeYear, changeCity, changeTitle }) => (
     <hr color="red" />
     <LocationSummary />
     <CitiesStat onClick={changeCity} />
-    <PeriodStat onClick={changeTitle} />
+    <PeriodStat onClick={changeType} />
     <YearStat year="Total" onClick={changeYear} />
   </div>
 );

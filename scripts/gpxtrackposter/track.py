@@ -49,7 +49,9 @@ class Track:
         self.moving_dict = {}
         self.run_id = 0
         self.start_latlng = []
-        self.type = "Run"
+        self.type = ""
+        self.source = ""
+        self.name = ""
 
     def load_gpx(self, file_name):
         """
@@ -61,7 +63,7 @@ class Track:
             # (for example, treadmill runs pulled via garmin-connect-export)
             if os.path.getsize(file_name) == 0:
                 raise TrackLoadError("Empty GPX file")
-            with open(file_name, "r") as file:
+            with open(file_name, "rb") as file:
                 self._load_gpx_data(mod_gpxpy.parse(file))
         except Exception as e:
             print(
@@ -180,6 +182,25 @@ class Track:
         gpx.simplify()
         polyline_container = []
         heart_rate_list = []
+        # determinate type
+        if gpx.tracks[0].type:
+            self.type = gpx.tracks[0].type
+        # determinate source
+        if gpx.creator:
+            self.source = gpx.creator
+        elif gpx.tracks[0].source:
+            self.source = gpx.tracks[0].source
+        if self.source == "xingzhe":
+            self.start_time_local = self.start_time
+            self.run_id = gpx.tracks[0].number
+        # determinate name
+        if gpx.name:
+            self.name = gpx.name
+        elif gpx.tracks[0].name:
+            self.name = gpx.tracks[0].name
+        else:
+            self.name = self.type + " from " + self.source
+
         for t in gpx.tracks:
             for s in t.segments:
                 try:
@@ -315,8 +336,8 @@ class Track:
     def to_namedtuple(self):
         d = {
             "id": self.run_id,
-            "name": "run from gpx",  # maybe change later
-            "type": "Run",  # Run for now only support run for now maybe change later
+            "name": self.name,
+            "type": self.type,
             "start_date": self.start_time.strftime("%Y-%m-%d %H:%M:%S"),
             "end": self.end_time.strftime("%Y-%m-%d %H:%M:%S"),
             "start_date_local": self.start_time_local.strftime("%Y-%m-%d %H:%M:%S"),
@@ -327,6 +348,7 @@ class Track:
             else None,
             "map": run_map(self.polyline_str),
             "start_latlng": self.start_latlng,
+            "source": self.source,
         }
         d.update(self.moving_dict)
         # return a nametuple that can use . to get attr

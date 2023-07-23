@@ -137,6 +137,7 @@ def parse_raw_data_to_nametuple(run_data, old_gpx_ids, with_download_gpx=False):
         ),
         "average_speed": run_data["distance"] / run_data["duration"],
         "location_country": str(run_data.get("region", "")),
+        "source": "Keep",
     }
     return namedtuple("x", d.keys())(*d.values())
 
@@ -214,7 +215,7 @@ def run_keep_sync(email, password, with_download_gpx=False):
 
     activities_list = generator.load()
     with open(JSON_FILE, "w") as f:
-        json.dump(activities_list, f)
+        json.dump(activities_list, f, indent=0)
 
 
 if __name__ == "__main__":

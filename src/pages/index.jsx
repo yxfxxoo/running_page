@@ -13,6 +13,7 @@ import {
   filterAndSortRuns,
   filterCityRuns,
   filterTitleRuns,
+  filterTypeRuns,
   filterYearRuns,
   geoJsonForRuns,
   getBoundsForGeoData,
@@ -24,7 +25,7 @@ import {
 const Index = () => {
   const { siteTitle } = useSiteMetadata();
   const { activities, thisYear } = useActivities();
-  const [year, setYear] = useState(thisYear);
+  const [year, setYear] = useState('Total');
   const [runIndex, setRunIndex] = useState(-1);
   const [runs, setActivity] = useState(
     filterAndSortRuns(activities, year, filterYearRuns, sortDateFunc)
@@ -43,7 +44,7 @@ const Index = () => {
     scrollToMap();
     setActivity(filterAndSortRuns(activities, item, func, sortDateFunc));
     setRunIndex(-1);
-    setTitle(`${item} ${name} Running Heatmap`);
+    setTitle(`${item} ${name} Heatmap`);
   };
 
   const changeYear = (y) => {
@@ -67,6 +68,10 @@ const Index = () => {
 
   const changeTitle = (title) => {
     changeByItem(title, 'Title', filterTitleRuns, false);
+  };
+
+  const changeType = (type) => {
+    changeByItem(type, 'Type', filterTypeRuns, false);
   };
 
   const locateActivity = (runDate) => {
@@ -150,7 +155,7 @@ const Index = () => {
           <LocationStat
             changeYear={changeYear}
             changeCity={changeCity}
-            changeTitle={changeTitle}
+            changeType={changeType}
           />
         ) : (
           <YearsStat year={year} onClick={changeYear} />

@@ -291,6 +291,7 @@ class Joyrun:
             ),
             "average_speed": run_data["meter"] / run_data["second"],
             "location_country": location_country,
+            "source": "Joyrun",
         }
         return namedtuple("x", d.keys())(*d.values())
 
@@ -346,4 +347,4 @@ if __name__ == "__main__":
     generator.sync_from_app(tracks)
     activities_list = generator.load()
     with open(JSON_FILE, "w") as f:
-        json.dump(activities_list, f)
+        json.dump(activities_list, f, indent=0)

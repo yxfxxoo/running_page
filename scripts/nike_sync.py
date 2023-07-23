@@ -117,7 +117,7 @@ def save_activity(activity):
     path = os.path.join(OUTPUT_DIR, f"{activity_time}.json")
     try:
         with open(path, "w") as f:
-            json.dump(sanitise_json(activity), f, indent=4)
+            json.dump(sanitise_json(activity), f, indent=0)
     except Exception:
         os.unlink(path)
         raise
@@ -378,7 +378,7 @@ def make_new_gpxs(files):
     gpx_files = []
     tracks_list = []
     for file in files:
-        with open(file, "r") as f:
+        with open(file, "rb") as f:
             try:
                 json_data = json.loads(f.read())
             except:
