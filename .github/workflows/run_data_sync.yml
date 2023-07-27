@@ -25,7 +25,7 @@ env:
   ATHLETE: Edison
   TITLE: Edison的运动记录
   MIN_GRID_DISTANCE: 14.9 # change min distance here
-  TITLE_GRID: 超过 15km 的运动记录 # also here
+  TITLE_GRID: 超过 15km 的运动轨迹 # also here
   GITHUB_NAME: yxfxxoo  # change to yours
   GITHUB_EMAIL: yuxuefu@live.cn # change to yours
 
