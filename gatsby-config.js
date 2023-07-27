@@ -3,7 +3,7 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: 'Edison s Workouts Map',
+    siteTitle: 'Edison`s Workouts Map',
     siteUrl: 'https://mytrack.run',
     logo: 'https://img1.imgtp.com/2023/07/23/xdyH1D7i.png',
     description: 'Personal Workouts Page',
