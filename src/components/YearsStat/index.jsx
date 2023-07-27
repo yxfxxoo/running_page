@@ -21,7 +21,7 @@ const YearsStat = ({ year, onClick }) => {
           <br />
           #在山野间我总能肆无忌惮地笑
           <br />
-          <p style={quoteStyle}>EDISON YU</p>
+          <p style={quoteStyle}>餘小冨</p>
         </p>
       </section>
       <hr color="red" />
