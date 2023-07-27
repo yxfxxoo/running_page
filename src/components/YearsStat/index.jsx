@@ -18,6 +18,10 @@ const YearsStat = ({ year, onClick }) => {
         <p style={{ lineHeight: 1.8 }}>
           {INFO_MESSAGE(years.length, year)}
           <br />
+          <br />
+          "在山野间我总能肆无忌惮地笑"
+          <br />
+          <p style={quoteStyle}>&ndash;&ndash;EDISON YU</p>
         </p>
       </section>
       <hr color="red" />
