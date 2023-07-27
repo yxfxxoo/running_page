@@ -38,7 +38,7 @@ const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength, year) => {
   const yearStr = year === 'Total' ? '所有' : ` ${year} `;
-  return `我用Nike+、TomTom、Suunto、Garmin、Strava等设备软件 记录自己运动轨迹 ${yearLength} 年了，右边窗口展示的是${yearStr}的运动轨迹。`;
+  return `我用Nike+、TomTom、Suunto、Garmin、Strava等设备软件记录自己运动轨迹 ${yearLength} 年了，右边窗口展示的是${yearStr}的运动轨迹。`;
 }
 const ENGLISH_INFO_MESSAGE = (yearLength, year) =>
   `Logged ${yearLength} Years of Outdoor Journey` +  ( year === 'Total' ? '' : `, the map show routes in ${year}`);
@@ -101,9 +101,9 @@ const nike = 'rgb(224,237,94)';
 const yellow = 'rgb(224,237,94)';
 const green = 'rgb(0,237,94)';
 const pink = 'rgb(237,85,219)';
-const cyan = 'rgb(112,243,255)';
-const IKB = 'rgb(0,47,167)';
-const wpink = 'rgb(228,212,220)';
+const cyan = 'rgb(112,243,255)';//青色
+const IKB = 'rgb(0,47,167)';//宝蓝色
+const wpink = 'rgb(228,212,220)';//灰色
 const gold = 'rgb(242,190,69)';
 const purple = 'rgb(154,118,252)';
 const veryPeri = 'rgb(105,106,173)';//长春花蓝
@@ -114,9 +114,9 @@ const red = 'rgb(255,0,0)';//大红色
 export const NEED_FIX_MAP = false;
 export const MAIN_COLOR = green;
 export const RUN_COLOR = yellow;
-export const RIDE_COLOR = red;
+export const RIDE_COLOR = veryPeri;
 export const VIRTUAL_RIDE_COLOR = veryPeri;
-export const HIKE_COLOR = pink;
+export const HIKE_COLOR = purple;
 export const SWIM_COLOR = gold;
 export const ROWING_COLOR = cyan;
 export const ROAD_TRIP_COLOR = purple;
