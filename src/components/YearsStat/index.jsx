@@ -19,7 +19,7 @@ const YearsStat = ({ year, onClick }) => {
           {INFO_MESSAGE(years.length, year)}
           <br />
           <br />
-          "在山野间我总能肆无忌惮地笑"
+          #在山野间我总能肆无忌惮地笑
           <br />
           <p style={quoteStyle}>EDISON YU</p>
         </p>
