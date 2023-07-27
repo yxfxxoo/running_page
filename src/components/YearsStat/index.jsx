@@ -37,4 +37,9 @@ const YearsStat = ({ year, onClick }) => {
   );
 };
 
+const quoteStyle = {
+    fontWeight:"bold",
+    textAlign: "right"
+};
+
 export default YearsStat;
