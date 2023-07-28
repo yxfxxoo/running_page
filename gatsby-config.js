@@ -4,7 +4,7 @@ module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     siteTitle: 'Workouts Map',
-    siteUrl: 'https://edison-track.top',
+    siteUrl: 'https://mytrack.club/',
     logo: 'https://img1.imgtp.com/2023/07/23/xdyH1D7i.png',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
