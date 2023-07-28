@@ -62,16 +62,16 @@ if __name__ == "__main__":
     track = Track()
     # TODO modify here
     # trip name
-    track.name = "2020-10 Tibet Road Trip"
+    track.name = "贡嘎机场-拉萨"
     # start/end time Year-Month-Day-Hour-Minute
-    track.start_time = datetime(2020, 9, 29, 10, 0)
-    track.end_time = datetime(2020, 10, 10, 18, 0)
+    track.start_time = datetime(2021, 9, 25, 14, 33)
+    track.end_time = datetime(2021, 9, 25, 15, 36)
     # total distance
-    distance = 4000  # KM
+    distance = 58.6  # KM
     # total days
-    days = 12
+    days = 1
     # average daily distacnce
-    hours_per_day = 6
+    hours_per_day = 1.02
     track.type = "RoadTrip"
     track.source = "Google Maps"
 
