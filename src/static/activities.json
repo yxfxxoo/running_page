@@ -21403,5 +21403,20 @@
 "average_speed": 7.881,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 9821576413,
+"name": "Zwift - Group Ride: ODZentury Endurance Builder Ride (C) on Eastern Eight in Watopia",
+"distance": 31101.6,
+"moving_time": "1:13:43",
+"type": "VirtualRide",
+"start_date": "2023-09-10 11:46:58+00:00",
+"start_date_local": "2023-09-10 19:46:58",
+"location_country": "Muie Village, Temotu, Solomon Islands",
+"summary_polyline": "nxdfAivdz^iAtBuKzF}@`EmBr@oAzAKbAf@jBvBzAI~B_EzCcB_BeB?Kl@n@z@YjC{F^o@fCcB~@a@~Aq@f@_A{@hAuB_@qBrAgAc@mA}BkAgBZs@|@T~Bq@d@{BqEjAiDe@sHvENlA_BKgAqBgCyDdBaBJVwGaCu@wAV_CpCcCn@eCLoEaAmBpCyC^mDtBRh@lHdB~CuAnCj@Bp@w@d@wFhAqEc@i@v@lDn@dAnArBSxBb@jCg@tBjAfCdG_BrCqBpE{G|@eAeBiB}@sAsDeCj@oBiEq@VOzA{A[oAl@oAu@}@N@t@dCpCe@n@{C}@q@cARwAe@c@kDg@aD`@Qr@ZZrDOiEpCvDdBUvCH~@`Cn@f@x@U`AsE~B_@jCu@Fw@aB`@cBUkBeAy@kAAeA^_AdCFbAx@v@K`A~@~A}AtAi@xC_@AaAmBhA}C_AGqBtADwBe@k@mBbAaAjBgBYiFEqA|BCrDlAnBJvApBjCx@xIs@vH_EtJG`Cb@dBrAdBz@HzB}BlD{A`VsD~AoAnCmGjEoBzBBlBr@lFzGzAx@fCHdHcAzJqCmBqHr@eA`u@aSWqCRyGcF}FiB_Hh@{IfEoAfBmBYm@uBCHo@lB[d@yB_AiBOsByAm@}@iDvAyBnBu@~@cE|LgH^_C_@sDoByCaFSa@sCcCyAeBj@aDrJy@t@qAaAg@{CgBoAgGsAeCJ{Aq@u@oCS_GPy@lBgBRgCe@aMq@kEuBs@_M|CqFk@k@mBcEmFvAeS?mKX{@fC_A`@_A[qAmC}AEsEsAkAgBOaB~EcBt@qHmKgA_@uAXoAxB`DdFa@~DkB~@aDHsCdEcEq@_Dr@yInTJjB|@hBnH`Dt@bCi@nEmIzSLvCaClCbEnFF~DaAxAcE`BoAvEPzA~FbFhBnFSvDwCxChAxEeCtC_ITu@kAfAuCeCgAOeCwDiB}BEo@r@[xEsCAcA|@FdAnBxDu@jHjCzIzDhAtA|B?zCoApFV`AlBx@vA]hBZjAoBdB_AJfCZ^tB_Bl@HkAzCxAxBbAcD~A{AcA_BFoA_AkAbAcDhB]rAn@\\hBa@nBtAnBl@_@b@oCbB_@zBwBc@{AkC}@b@_CWsAqDuAzDgBLw@uDPM{@fDc@fDh@X^SnAp@jA~C~@p@{@iCwC@i@|@IlAr@nAk@lA\\^_Bj@UjBhE`Co@|A`E|Ap@|@|ArAJrDk@vAcAdDgHA_AcAsA",
+"average_heartrate": 130.9,
+"average_speed": 7.032,
+"source": "strava",
+"streak": 5
 }
 ]
