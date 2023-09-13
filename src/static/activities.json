@@ -21448,5 +21448,20 @@
 "average_speed": 8.501,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 9835131945,
+"name": "Zwift - Volcano Circuit in Watopia",
+"distance": 2207.9,
+"moving_time": "0:05:10",
+"type": "VirtualRide",
+"start_date": "2023-09-12 15:37:05+00:00",
+"start_date_local": "2023-09-12 23:37:05",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "xg`fAik}y^bBzEbAjCP^XXTJJ@XEbAc@VI~@O~@GX?XBtA^^F|@Bt@AVETInA_A^Qp@If@AVBTLb@t@d@r@DJ?LCJW\\o@l@W^KDY?aAUY?QDcBj@]NONUZi@fAQl@AV@^Px@Vt@V^^XXHX?XGTSh@o@LINCP@NDz@\\LDN?NCJGVSpAgBTc@`@yALWHIJCL?XB`@L^TPTH\\LbANb@d@l@lAbAT`@DRBd@?RK`@wB~D",
+"average_heartrate": 121.5,
+"average_speed": 7.122,
+"source": "strava",
+"streak": 7
 }
 ]
