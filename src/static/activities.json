@@ -21703,5 +21703,20 @@
 "average_speed": 3.281,
 "source": "strava",
 "streak": 14
+},
+{
+"run_id": 9885998155,
+"name": "Zwift - Tick Tock in Watopia",
+"distance": 20202.4,
+"moving_time": "0:49:48",
+"type": "VirtualRide",
+"start_date": "2023-09-20 11:59:56+00:00",
+"start_date_local": "2023-09-20 19:59:56",
+"location_country": "Muie Village, Temotu, Solomon Islands",
+"summary_polyline": "xz_fAksbz^_@mA{@gAm@WqBY_@[Ym@w@cCy@aE@s@p@yCB_A_@kAmAkBGaAT_@^UpBLh@KRs@LmD^g@z@KnB^vBfA\\n@?bBRLfALb@\\Ab@w@tAId@Np@j@^hBJxEa@lA}@`AyABo@}@aBM{APa@hBeA\\g@VyAIgBi@wBiAaCqCqC}A}@Qa@Aq@^}Bp@_Bj@_@vC}@d@e@Z}@H_BUaBe@y@gC}BSo@Xi@dB_B@YWgAH}@rIgTXuAFoBKiAk@}@mFeBaAw@{@iBIaB\\oAfFmKf@wARuAT]jAe@rAKvBt@dAEv@k@|@uB\\c@xCG`AWn@c@j@cB?iBWs@}BwCMe@Ro@r@q@x@Yh@?jAv@pEvHfAx@x@G|@y@b@qBl@}Ap@EfA^p@j@Pn@KjCJn@~BlA\\h@@r@Qb@aCz@i@`AIlBDvHwAhRd@zAdDpDX|A^NpBBvBb@rAMtJoCt@Jp@p@VpAV~C\\~JCvAOz@eBvAYbAL~EVlB^`Ad@`@dA\\|BM~An@|BPz@VzAnA`@tCj@n@f@Rh@Qb@q@xCgJf@g@v@Az@Zx@p@Nb@F~ANTf@J|BE`APn@n@z@jBP~@HvBI~@Uj@yAjAeJzEc@r@WlCyB~@w@x@Yv@LpAp@bBzAn@NtBz@~Ac@pBmBZKp@VVbAM`@DTZUn@uA`A{Cn@g@`@MdD]rDl@hDbAlCrDnDf@z@B`@WvFTrCyAj@qc@lKkMxDq@d@Kn@rB`H{HzBgCj@sEj@cCE}Ay@eDuEeAcAwBw@yBCiBd@oBtAk@~@cBjEkAbAqCl@}NhBgCn@iBx@cAt@gArAo@@e@_@s@eAYw@KoAFkAv@uChBcD`@mAh@_EDeDQaDg@oCi@kAiAcAEkAw@w@M]W_CRqAjBqGj@yAZ{DWoAcA{Ai@YcCc@q@eAoBwHBaAp@aD?{@]aAqAwBGi@Ng@l@_@rBN`@IRk@N}Df@e@r@GxATfCjAb@p@@hBvAXd@^Cd@_ApBHj@j@h@dBLjFe@fA{@v@gAJ_A_AgBKqAPe@fBeA^i@V{AG}Am@{BgAcC_CaCsBqAQy@ZeCp@eBh@c@~CaAf@i@Z_AFwAUaBe@{@cCwBWo@Lc@hByAJm@",
+"average_heartrate": 128.6,
+"average_speed": 6.761,
+"source": "strava",
+"streak": 15
 }
 ]
