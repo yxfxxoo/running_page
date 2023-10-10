@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Workouts Map',
     siteUrl: 'https://mytrack.club/',
-    logo: 'https://i2.100024.xyz/2023/10/10/gm3cqn.webp',
+    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1n2FT3wgoelOgVRz6q9sJBLbjyjnp2pswwA&usqp=CAU',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
