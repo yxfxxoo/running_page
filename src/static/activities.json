@@ -22438,5 +22438,20 @@
 "average_speed": 3.532,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 10176569602,
+"name": "Zwift - Two Bridges Loop in Watopia",
+"distance": 15141.5,
+"moving_time": "0:30:18",
+"type": "VirtualRide",
+"start_date": "2023-11-07 13:41:11+00:00",
+"start_date_local": "2023-11-07 21:41:11",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "|p_fAq{~y^MvALfBt@hCdAnBnAlA|ClB~Al@fEhAbB|@^b@l@lAvAhEf@fAn@r@z@ThAMbA[JQK{@r@e@HWSc@oAa@WSCOHiAGQgAk@QQBe@Pc@f@e@`@Ib@DZVb@r@ZzA`ATbAdAZC`Am@t@o@RUL]M]kBcAS[Qm@Kw@Ba@PSv@Uv@IdABr@Nb@XbA`B`CrFb@\\VEx@eAlJ}FN?\\NnBpDf@`@^IT[nAcEd@m@Z@d@V`DfD\\J\\ETUH]C_@a@mA?_@VQdB_@T[Fa@Eg@Oe@}AiBUc@Ig@EaBI_@UYq@WkCSyA?mC^{AIq@H[T[l@eArEY|@_@\\SDg@GaBi@{K_CwDeAoBUiCH_Fl@yCh@oEtA_AB[_@Kw@AqAN{BZm@tAi@LQBUMqA@eANk@x@oAF_@Wk@g@[_@o@eBcHWu@YO[H_@r@GZGhHFVl@XVA^g@ReACUMQSGuAEmCF_BP_@PGP?RLb@jClBPb@?RO`@[ZeFjDs@l@_@f@Sl@Gr@@bAN`A`@~An@xAf@v@|@z@lBpAbBz@bGdBz@^x@n@r@nAbBdFn@nADXCJWLuAuAYSo@Qa@As@Li@b@Wn@Ab@TtA|AfFzBlGr@rAh@TtBs@jCYp@DdBd@vBBv@SbBiAjAQ^@ZJhAfBLZK\\gBdB{AUc@BaCx@i@j@u@~AI|@Hv@\\bAZh@ZTn@L^G~@aA`@QjBh@b@EZUxAoB|@mCJK^C|@Rd@^L`@V`Bv@bAfBvARBh@IVa@Vw@`@{CDwCk@iI?eCJaB^oC\\mBZkAVi@`@c@hCeB|@qAr@_@v@Un@Gf@H^Xj@Pb@AVIL]EWQSo@QAUv@QlAD\\[Da@OWUO_CTaAQk@c@cCqCw@[_@H]f@kAvD[l@QBOGWWkBmDYS]C}JfGe@t@KJO?WSWc@eC}F{@iAw@[_AGkAFcAVW\\Ch@Fj@X~@^`@xAr@JN?PS\\iAbA}@f@OEw@_AaASYqAO_@e@m@c@Qc@@k@R[^Qf@CZNZnAl@DRIfAJXzAl@RPBLGJw@n@Jz@KHyBh@mALg@?_@WuAuAe@Qi@Ci@Fc@T]`@Mf@D~@`@dBrBrGxBtFZ\\d@BhBq@",
+"average_heartrate": 126.0,
+"average_speed": 8.329,
+"source": "strava",
+"streak": 8
 }
 ]
