@@ -22618,5 +22618,20 @@
 "average_speed": 1.448,
 "source": "strava",
 "streak": 15
+},
+{
+"run_id": 10222246229,
+"name": "Zwift - Group Ride: GRIT Partytime  (B) on Coast Crusher in Watopia",
+"distance": 33332.9,
+"moving_time": "1:00:13",
+"type": "VirtualRide",
+"start_date": "2023-11-15 11:07:35+00:00",
+"start_date_local": "2023-11-15 19:07:35",
+"location_country": "Temuo, Temotu, Solomon Islands",
+"summary_polyline": "fcofA{x~y^NaBrBiDLcBy@_BqEq@aAs@A_AtAeD_@uFp@a@|CEx@s@dD{IX{GhBiCd@uE|FcDbFMx@iB[yFVgCy@s@eFeAWe@`@q@tGyAZ{@S}@sHyGq@`@KvDwGFW_@GiJuDo@SoO`@]vB@dBaAVaAg@sCmAiAh@cFe@eDw@kAmEgCmDcE}GdAiHwBsHHmBe@m@oAQyHoM_PHsCbBiFQoAmAc@wAHyBbAs@bAB~@tBdAK~AtAxC[bAiARy@kAmHwT}@m@iCW_@cDe@y@eEcA{DlBgBaCmDKi@cDqGSoAc@{@sHbAiBbBy@?aAiD{BkCa@qC}EuBD}FvFcAKGaDgAc@yD`BkCY{Az@QrAm@f@oFkAyDrCwD\\_CmA?eBcAUcAd@aAtDeFmAyBdD{IXaDvBm@zA{AlAkArFo@dAuABwEmC_C^}BvAsAfCu@fJeBpBsDCqHkDyElAiCKmDxCkFl@aC~Fw@d@}FgFiFb@_FiC}Da@gBl@{D|D_DFeBt@{@xB@r@hArB~AP|CuA^mBIsDrC_D`Bw@jE\\vEfCtF_@jEpEt@Pz@g@bCcGjFi@fDwCfCLlEmA|HjDnDBnB{Bv@iJpA_CtBqAfC_@hEhCzACr@}@nAaGzAkAl@_B`DqBrIU|BeD|EnAd@_@`@sC~@k@x@J?hBpCrA|Dc@tDoCnFjAd@]R{A`B_AdC^zDaBz@f@ChCpA^nAk@nDgE~@[xAp@jB|DtCd@~CtBAp@aBv@kAvB`AvHnAd@nGNp@jDvDL`BzBhDkBhEz@f@v@`@jDvCZp@h@xIzVnA?r@uAuAsCDqBiBy@GkAhDyBrCVNlA_BzEM`DfMvO\\|AC|Eh@rArBn@xHIdHvBhHeA`D~DrFpDr@bEk@dFxAzA\\bC[z@qAr@yB@m@`@PvOxDv@X~J~GFZiEb@UnHvGCfBsGxAk@~@h@p@pGlB[lCRvGcA`AqFTyErCa@dAGvCmBtCWtGaDnI}@p@eDFk@n@`@tFsA|C@~@jA~@tEr@l@rAM|A_CnEQlDuElEgHfAm@Qg@qBeBoCu@E_DdE{Hz@k@dAHt@j@\\dG|@fAfBVbIjAzAiAnMn@zBq@fAFt@fAj@tDeBn@zBtAvA~BRJbB}JdBIn@d@~BeDnMgEtAaA~BwLfOgA`H}DvBuBnEuGr@oCIeBq@oAyCcJf@sC}AwEe@sCdA_GIuFxCqAnBqB\\",
+"average_heartrate": 134.3,
+"average_speed": 9.226,
+"source": "strava",
+"streak": 16
 }
 ]
