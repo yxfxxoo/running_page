@@ -22633,5 +22633,20 @@
 "average_speed": 9.226,
 "source": "strava",
 "streak": 16
+},
+{
+"run_id": 10228039144,
+"name": "Zwift - Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands",
+"distance": 40330.7,
+"moving_time": "1:23:30",
+"type": "VirtualRide",
+"start_date": "2023-11-16 10:27:52+00:00",
+"start_date_local": "2023-11-16 18:27:52",
+"location_country": "Lata, Nuva Station Ward, Temotu, Solomon Islands",
+"summary_polyline": "lyu`Aesfs^aA~@f@xB_Bf@qAkBwE_AwBeB}AyCLcAp@_@bDxAzASdAgA{@yB{RbAyGbD_DyBCwCwDgCkABiCfC{AiAy@ZwLcDoDqBqCuDkEo@cEyFa@kDfA_Ba@cAqEe@aFrBgAzAcB[AuCoAuB`AiMiHsF{GRyFtDl@fMvEfDm@xEtB~G]tBz@bBSrApC~MIxIvCpJlEq@|IxS|BRlC|BlD?tDpGz@F`EcDxEJt@fF|B~BSdBsC~CEjBx@tAhHjC|HKdBbDbI`DnIa@rCgDjEaBdAp@LrCdAfAnGiAjEtDvDwAjIbFlCy@pAVxEhGfKm@lIvAhHy@rBoBbCeGnI_DvBiE{@sDjCgBxA}ERaF`EsCxECn@m@BeDoHeDhAqCHcCt@o@\\kFpDHn@~AS|AvBq@_AwA`@eAfLTlBkA~DFfQbOfA}ZfAgBxAk@fCVrIbLdHj@t@mEgE}HfDaQxEgBlOvBjHnNfItE|@`GiBxAj@lF_At@pBlCc@v@uC\\I_A~@u@[aBgCA{@iBa@RTbCo@~@f@nBiCa@u@{K`By@m@qCmCz@LbDgEr@_@`JnFxBvA~CxIuB`Dx@vArBjCvKnI`IrCtIHfCjDw@vAbCu@zDhFWjAn@{ApDlAnHwD~ATfBbB[w@gGnBs@lCHhC|DbDWfA|A_@|A_B`AJfEm@`CqIS]|@j@lE_AX_ByA_APiChNwEvEVrFgAvAwB~Jx@CrAgFhASx@l@W`DhAzB|AbA|B]s@~ClBtBNnDpA|@f@zLzAnCqApC`CdGvAR|FiCfCA`@~FnHSbD~ExDi@zEzIwAt@aDsDiALoBtBfBrC{A~BeEaDgGKkBxF_GfCeIdImBxBmAhEcFf@cClD}NvBs@kAb@qEs@gE`B}@~BfBXnC{@`B_HQa@}DmC_B`@iHyCaMyGoF\\_CtC}Bg@gIqF{AuGvByCe@{EfFoBw@mBP_AgAA_CtDsBoDkCw@aCf@_BfBwAtBj@|Ae@fArDh@HjBcAn@oBo@gAkEgANwCsAgBsAg@mB\\sAyAAwBrDqD_@uErAuCyFyBq@iCaD[nAgFWiA{EkAkEz@uD{@uDrAeE[_AaB|AsCmB_C}DnKcB\\c@qCzBsCr@}Gu@eC{D}CkD\\WvFbAhIi@bAsAI}@sDMkGyBoB}@uEwASqCxAuAYiAcAGyDcHaB\\_DcDEyGaCaEaEwGlAsE_@gCiLeD_By@yAX_HoCsDpBiCCyAyIyKeI}AyCeDHkC_AwDvAcD?_E{DXgC[_B_GmCqBiBz@d@bC",
+"average_heartrate": 127.6,
+"average_speed": 8.05,
+"source": "strava",
+"streak": 17
 }
 ]
