@@ -22723,5 +22723,20 @@
 "average_speed": 3.462,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10261819050,
+"name": "Zwift - Zwift Academy: Workout 3 | The Finisher in Innsbruck",
+"distance": 24421.5,
+"moving_time": "1:04:43",
+"type": "VirtualRide",
+"start_date": "2023-11-22 10:15:14+00:00",
+"start_date_local": "2023-11-22 18:15:14",
+"location_country": "10a, Rennweg, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "qbp_HcxpdAhCjAhCDbTdB\\EPa@AcAgAcMg@sDBs@\\YfE_Ad@DzBjAh@ATWb@yB|@gMX_@pAo@rA_CxB_FvAwFXGbDr@ZATYFi@?yAOyDS{BFq@JSn@]nG{BvGyDpAkArCkDVa@TaANKrAGjGoDnQuEXQTe@f@a@Ha@?{@m@oFEeA\\}GEsBWkCs@wE_AoDg@sCuAgL_CcZIuEB{DJyBTaBXeAjAcCRgA@}ASiG@y@\\MT`@^xD|@hEf@~AX\\XFZIPSNe@@i@[yDCgBR}Bl@wDp@_Dz@aC\\e@jA[\\o@Ru@Fw@EuD[mLUoBaBuJIoAR}A|@oCxA_Df@c@|AAnE~@jBr@dBpAx@dAt@hBbD|NrAtEz@`BbA|@rFlBtBtAbDpCfBrCx@t@hLpEbDrBfIvGNb@KtBJ\\j@CtCyAd@@jD~B~Db@~Q|F~@h@zBrBfAl@nKzB|A@dF}ArBKtCVdEdB|A`AvBrBjBzBhAjBjCnGxBhJfArDlA`CxAlBdChB~CpA|MrB`Dx@pAt@pC|B`AjANr@Ov@Wj@[d@a@T_Gx@kEVwDjAyBzA}HpH_CfBc@j@g@rAi@TkBFy@Vs@r@uBzCyCvB}@`AeBtCwE~IaAbAsBv@cDVyB@{Ck@g@B{@dAsDvIi@dCgAdJY~@g@h@uBn@uCJ_C|Bk@`@aDx@yA?sDkAaA?[\\uC`FgDfEyApA_DbBYCqAu@eDAa@KaAm@mDk@_@OY_@g@uA]_@c@KqB?a@]Ku@@oDIw@o@yAy@gA}AyAoCyAkDgCyGqD_BUmD\\cA`@[`@e@vAWb@mAlAsA\\w@Kq@_@q@g@m@w@q@qBw@eFgB}OuA{Go@_Hi@qBkAi@s@BaHzAoGjBmDhBaBhAk@~@OtAv@xNlA~NjBl\\l@vEhBvHA|@_@l@g@^gDtAgE|@_BKe@H_Az@{BrDiAp@kJjBiGKmAHaKlD}LtCQ\\?|@VlD\\bAcCfEKt@D|AIl@[h@cCnCgHvLKCG[J{C]yE[sBa@_As@c@oBe@o@i@w@sAuB{Ew@aAw@]eBD]IEWDw@h@wC~@{@nAqBDg@Ei@]eAw@mAmAiAwLcHsAeAy@eAwBiF{CeF{@yBiFeQm@iDMsBFYd@EtCfB~@x@lQj]lBbDhClDxB|BlEtDjCzAp@RhCDnTbBXWBaAeA{L",
+"average_heartrate": 134.8,
+"average_speed": 6.289,
+"source": "strava",
+"streak": 3
 }
 ]
