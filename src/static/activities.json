@@ -22816,7 +22816,7 @@
 },
 {
 "run_id": 10282132009,
-"name": "2023 NANSHAN HALF MARATHON",
+"name": "NANSHAN HALF MARATHON",
 "distance": 21197.2,
 "moving_time": "1:25:56",
 "type": "Run",
@@ -22873,5 +22873,50 @@
 "average_speed": 9.876,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 10294207146,
+"name": "Zwift - Duchy Estate in Yorkshire",
+"distance": 5086.2,
+"moving_time": "0:11:05",
+"type": "VirtualRide",
+"start_date": "2023-11-28 10:16:57+00:00",
+"start_date_local": "2023-11-28 18:16:57",
+"location_country": "Three's a Crowd, 11, West Park, Tewit Park, Low Harrogate, Harrogate, North Yorkshire, England, HG1 1BJ, United Kingdom",
+"summary_polyline": "cvohIf|kHiCxAwB~@uH~B}DfAy@XgAt@eDpCcAdAS^?l@fB`ITx@d@bAHTNr@Rl@@\\Cr@@l@JbAb@tAfChHh@`BdGv]h@vDBb@E`@OTw@^aA^YPKLIPAX@|AOtA]fAc@z@UPwBnAiFjCUHSMK_@[cC}@mFw@cDm@mBqA_DcEmIuCoGiBeGScAo@eEMWOSaB_Bw@iAO_@Ic@OkBSaF@]JSLI`H_BzBs@h@]lDkCPIRBLTdAlCd@|@fAxAl@l@PHP@dAMbAYp@YNCNFLRDXChBJfA`@rAlCvHf@|AjGl^d@dD@`@G`@QT{B~@YRKNEV@|AMvAKf@Ob@a@z@WTwAz@_GxC",
+"average_heartrate": 116.3,
+"average_speed": 7.648,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 10294255143,
+"name": "Zwift - Classique in London",
+"distance": 6114.6,
+"moving_time": "0:10:55",
+"type": "VirtualRide",
+"start_date": "2023-11-28 10:29:03+00:00",
+"start_date_local": "2023-11-28 18:29:03",
+"location_country": "Admiralty Arch, Whitehall, St. James's, Covent Garden, London, Greater London, England, SW1A 2DY, United Kingdom",
+"summary_polyline": "y{jyH~bXJn@j@zAbBzFxK~]~HpWPt@@\\C\\Ov@C\\@nDIbH_@vUSlO?hA@XFRLCDq@?aIj@y_@FwFCiCDs@Rm@NONGPAr@FPANIzCcDVc@FY@Y_AaQi@uLm@iLSiF@yBf@sO?iBIo@KOMI]EaI@qAFyALuB^aCl@sCdAcDtAgAPOCy@s@q@SMQw@eBsHmR{BsGa@yA]}AKOML@X`AvDzBvGrBdFdBvEDt@CzD@ZDVLJPAnA_@PANBNJHPFVHr@Pj@NJ^@\\P\\XXd@hBxFpAjE~Nte@",
+"average_heartrate": 131.9,
+"average_speed": 9.335,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 10294692587,
+"name": "Zwift - Group Ride: Stage 3: World Tour - Team Jayco AlUla (E) on Volcano Climb in Watopia",
+"distance": 31411.5,
+"moving_time": "0:55:54",
+"type": "VirtualRide",
+"start_date": "2023-11-28 11:11:53+00:00",
+"start_date_local": "2023-11-28 19:11:53",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "lk_fAki_z^pA^tHtKp@HvAy@tAwBHcBgAuBuCyBSs@`CcAoA_NRcCp@qBhBwBzDcBtV}DhAoArBeFnCoBhC]fCb@|AdAfEvFrCz@rJkArZoIzAIl@ZNzAQ|OiB|IeAlCE`Ja@zAqK^y@}@wCeKw@mAaAg@u@D}@f@i@jARpC`H|NsAn@sJtAu@b@Q|@`Af@jKoA`AVuAh@wK`AUt@zA^nG[tCj@j@zDnBjCV~@Sz@aCr@El@bArCfBPX^]r@sAEw@XhA`AId@}@FsBo@eBZgGfFq@hA_BbKCrCj@lLUfDq@dCm@R}@a@oBqBq@yCoBm@e@Ty@dCqBjCiCc@sBtAuAWeAkDlAeDvCmAhCLhBqB?i@cAaBaAa@_BNcD~A}Fq@oDb@cEdCc@hBoAlAaAtB?jAdCzFzAEbAqBhCs@pAh@l@jEIhDiBr@Q`C~C|C~A\\bFkBvAn@pAI|C}Az@iC|CsCl@oAMyE{AaCsBeFoHiBoJl@wCjAuCpEpBnKt@fAxATl@Sh@{A|HcBb@BbAlBzB`@jAQ`@oADgCsC{F{CwAiEIiCz@_ChCK~CxAjE`DfBfCPjBu@~AwC@_Bs@gCoAcAyASwBV}@`A[|AFlA`AhBdAj@tAEhAq@f@uA@oA}@gAiBe@_AL_AlA_@@t@}BdBc@lBHtAbAl@bBJhBuAtCoAz@cBJcDcAiAcAmA_EJqC`CgChCy@vDHbDzAhClFCfC]hAkAPyBa@qAqBoI`Bu@`Bs@LcAS}@qAcB_JHw@vAwAv@_BbDgAtIg@xEz@lBdA`BzElAlBJxEi@dAaDtC}@hCiEfBmBq@sFjBsA]yC_DNwBfBm@LyDi@_Eq@m@q@E_Cl@{@hBqAVi@]mBkFR_B`C{CTsAhAoB_GqQYcC`@y@hAa@tAX`B`Bh@K@k@uEwKiBgA{GoBeEiCoBoCkAyEBgBf@kA|G}Er@aAWmAsCiCPc@dBYHYmAgLXuElBgDnDoB|WmElAkAbC{FxDuBdCClBj@vG|HjCn@fJiAb[uIpAIl@TR`AK~OmAvGiBtFC|I_@zAiBZqHBu@eAuC_Kw@kAoBc@_Af@m@lARrC`HxNkAn@_KvAy@l@Ix@jAd@~JqAbANcAn@wLfAGv@bBZbG]`Dr@b@vDrBnCPx@Mt@gCx@Eh@bArCfBRZj@e@d@aCJDb@~@d@Ul@eDo@_Ch@{AjB{DfD{@rDo@pGh@|P",
+"average_heartrate": 153.6,
+"average_speed": 9.365,
+"source": "strava",
+"streak": 9
 }
 ]
