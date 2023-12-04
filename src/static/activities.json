@@ -22993,5 +22993,20 @@
 "average_speed": 5.178,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 10321333733,
+"name": "Zwift - Race: Race #2 | Cobbled Climbs | ZA 2023 (C) on Cobbled Climbs in Richmond",
+"distance": 19095.4,
+"moving_time": "0:45:48",
+"type": "VirtualRide",
+"start_date": "2023-12-03 11:02:31+00:00",
+"start_date_local": "2023-12-03 19:02:31",
+"location_country": "9th & Marshall, North 9th Street, Shockoe Slip, Richmond, Virginia, 23219, United States",
+"summary_polyline": "gfcdFhvrwMX`@@LI\\oLjUmGdMO^CPDb@HNx@t@~BfCzArAvAvAvAdA\\JN@NALIJKT]`AcCpBiEbFsJdGwLbJiQ|AiCxDoH`BqCROVHf@d@tE`FNNPFRELQ`@{@^y@Rg@BUDm@MwAAk@TqAz@gB|@yBxE{HzBcE|BoEXwAt@wAxAaCdFwIzBaDf@q@Z]rP{LXWrB_CjAmAZMdBa@fA]hA_@nAi@XQRYBOAQGMMG[?sAZuB|@eDxAOHi@j@}DnEu@f@cA`@g@Le@B_DOu@AmBb@yFz@GEAQBGb@c@@WEOYQ[GYBe@JG@IMAK@Gj@WLIb@eAJ@TLd@j@VDZENMHU@KAMI[mAwAm@k@MGM@KHIL]fA]t@{GfMy@dB@b@RZdBvAVZEd@cA|BsAnCQXWPYESQqJgKiAeAKEK@WPQZy@hBkA`CkI|OS^M^@d@P\\h@n@|IlIv@p@LR?Xm@vAaBzCeCdE_CpEuBpDsBzDMNI@ICw@WOKk@m@iAe@_B{@kA_@aAKQEWQaA{@SKUCOHq@fA}FhLgGpL}LlVO\\CN?PDPPXv@r@xB`CvAnAtAtArAbAZNLDN?NALIJKR[~@_CrBoElFeK|EsJdK_SvAcCdE_I~AmCTCTLdGnGPHPELO^w@h@iANg@F_AMsAAi@ToAv@cBdAeClEkHjCyEvBgEVsAz@aB`BiClEwHdCqD`AiA|PeMhCuCfAiAZMnBe@nAa@dA]|@_@`@YPY@OAOGKKGY?wAZuEnBoAl@aA`AmD~D}@j@}@\\o@LU@mDQo@@_B\\}F~@MCAUNQRSDG?QEOUQ_@I[Bk@LCAEK?QFGf@SHGb@cAJ@RJd@h@VFPAVKJQBWEWIUaBmBWQMEMBSV]bA[p@eGfLoAhC?`@PZxBlBBb@_AvByA~COVSRW@SMmKcLo@m@KGICM@IF]f@_AvB_AjB_J|PM\\E`@J\\nAvAhIxHr@l@JTCVo@vAcB`DiChEqBzDwBrDqBzDSVK?[Ic@QMK]c@MIkAe@aB_A_AYm@I_@COGuAiAUMSCSJq@hAcGtLqLhUmGdMKVEX",
+"average_heartrate": 140.7,
+"average_speed": 6.949,
+"source": "strava",
+"streak": 14
 }
 ]
