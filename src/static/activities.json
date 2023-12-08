@@ -23008,5 +23008,20 @@
 "average_speed": 6.949,
 "source": "strava",
 "streak": 14
+},
+{
+"run_id": 10342999705,
+"name": "Zwift - Group Ride: AEO Fun Ride p/b Stolen Goat (D) on Tick Tock in Watopia",
+"distance": 36584.5,
+"moving_time": "1:00:22",
+"type": "VirtualRide",
+"start_date": "2023-12-07 13:00:02+00:00",
+"start_date_local": "2023-12-07 21:00:02",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "rg_fA{~bz^tA\\nC_Ak@}Ev@qFwBoFz@eA~CEVkEn@y@~BHnDjBLbC|B~@eAzCv@jA`BJpFg@`CsC{@uCMiAzC}CL{DkBsFyFyESsArA_F~D{A`A{AJ}AYqB}D}E`CsCI}CjIuSf@qEo@aCwHaD_AsBG_BfG_NlAcE|Cu@zDr@x@g@|A}C`DKlB{@j@cBAkBaDyFtA_B~AOjGbJjAbAz@Ez@u@pAqEp@ItAd@z@|AGfD~CzBCxAeC`Ao@nAA~KuA|Qf@bB~CjD^bBvGr@zL}CbB~@n@fF\\~JMpCqBlBSdAT~Fr@fCzAv@nCIlGvAjB|Ab@tCrAt@|@}@~CmJ`Bg@tBpA^pCpF\\dBzCZbD[xBcMlH_AbEwB|@mApBt@fD`Bt@NpB|@dBg@zBgBTMf@X`@jBEJh@aBzAmExAg@fJjB~G~EpFSnGPfDqt@jR}@rAnBdHwJpCmHbA_CKwA}@_FmGqBy@_CGwBh@eBnAsCrGuAbA_VpDmDzAcC~BmAk@aAkB?qElDyH|@{Gm@yJg@}AqAmAKqA_AkA]wBLyAxCqJ^aEwAiDgDy@aAwAkByHv@kGwBsFbAaAjCFd@aFzAu@jFfB\\l@A~A`C`AcA~Cz@nAdIYfCkCDw@}@cBOoAvCqCZ_BGaBqB_GqFoEUyAlAuEjEeB|@{AE{DeEuFxB{BEiDlI_Tf@mE{@gCeHuC_AkBKkBbGyMnAiEbDu@tBt@fAEvCeElCCzBcAh@aBAiBaDeF\\eAlAw@~@Gx@b@bFjInA|@nBeA|AwEfB\\~@~@FvEfCvAZpAWn@cC|@c@~@CtKuAhShEvFl@jBdGh@fM}CtAv@n@rE`@zKS|CgB|AW`ARxFt@tChBx@xBMvGxA~AnA^pCvAfAhAaAzCgJ|Ak@vBlAj@|C~ERlBtC\\xDc@xBuLzGi@|@UdCyB~@qAlBf@vCf@p@fA\\T|Bv@pA_@xBsB`@If@Z\\hBCJf@qBdByDhAm@bJrBpHzErFUlGVrCwt@vR}@pApBbH_I`C}ItA{BE{Aw@uF_HqBu@}BAuBl@aBnAgC`GoAhAuTbDuEdBaC`CsAWqA}BGyCr@sCvCiGj@cJy@cHmBgCIoAgAyAWeChDyL\\{DsAcDqDaAs@cAsB{Ht@cHuBgF~@aAnCFl@sF|Ae@zE`B^f@@jB|Bz@_AhDv@hAbIUpBcBd@sAcAuBKmArCmC\\{AC}AsBeGqFqEWeA`AwEjFiCh@kAJ_B",
+"average_heartrate": 162.1,
+"average_speed": 10.101,
+"source": "strava",
+"streak": 1
 }
 ]
