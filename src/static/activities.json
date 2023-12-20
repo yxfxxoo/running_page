@@ -23278,5 +23278,50 @@
 "average_speed": 4.026,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 10403734125,
+"name": "Zwift - Climb Portal: Cote de Domancy at 50% Elevation in Watopia",
+"distance": 3961.2,
+"moving_time": "0:10:44",
+"type": "VirtualRide",
+"start_date": "2023-12-19 10:21:32+00:00",
+"start_date_local": "2023-12-19 18:21:32",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "lf`fAqn}y^~BbH~@fCf@jAFZ?LCLEJk@h@QVELKz@ELUVy@r@c@r@]z@I^C`@K`@mArBsCnF[`@KFYBcEOk@?i@Bu@LiBj@o@LiBXqAJ{@?sAGcF[sAEU?WDSJONAH@TLNFDTBf@GL?p@h@j@t@jAjBLVBPAHMLQDKA[Ow@k@UIKCK@UF[VIT?TB`@VlBBZEd@I`@Up@iA|B]|@G^DVPNHBP?n@QvAs@d@M|AOj@?h@DZJTNPTP\\f@tAF`@HhADRJNRHX@xAQ^AH@HN?NGLm@dAq@x@m@j@k@Xu@T}ANa@HSJU`@Id@@d@BXLTNFf@HJNL`@Fl@F`A?FENKJUHwA?K@SH[\\_@dAGHKFQASCq@W]G_@@sAPIAICQOo@{@BMPYD]C_@EMQWKIWKe@Ec@HSJOP",
+"average_heartrate": 132.6,
+"average_speed": 6.151,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10403836808,
+"name": "Zwift - The Fan Flats in Richmond",
+"distance": 7889.4,
+"moving_time": "0:15:55",
+"type": "VirtualRide",
+"start_date": "2023-12-19 10:41:21+00:00",
+"start_date_local": "2023-12-19 18:41:21",
+"location_country": "West Franklin Street, Monroe Ward, Richmond, Virginia, 23284, United States",
+"summary_polyline": "{lddF|vuwMi@hA}Rd`@_C~E{DrH]f@KHg@NIJq@lBcDnGKHu@VUVK`@AhAM^eGlLeJ|QeE~HENAPDPJHL@LGHMvAwCxP}\\|C{FTYLE\\ELITYHe@@y@Je@b@aA~BuET]LMNCPA^Hh@\\|A`Bf@\\nO`HdDhB^LNBNCLKPc@RiBxF{THi@BuA@_OBaE?eNBiEAYOMiDKOEOIQAMHKNsRl_@qDtHyEdJUVe@PMFIJm@hB_DhGKJMFg@PWVGLCPCjAM^wGlMoIxPiEfIGN?PFPJFN?JGJM~AiDlOsZ|BgE",
+"average_heartrate": 123.1,
+"average_speed": 8.261,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10404054735,
+"name": "Zwift - Group Ride: ZRS: Rewind Stage 3 on Volcano Climb in Watopia",
+"distance": 23206.1,
+"moving_time": "0:40:31",
+"type": "VirtualRide",
+"start_date": "2023-12-19 11:05:30+00:00",
+"start_date_local": "2023-12-19 19:05:30",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "lr_fAeb_z^|CfEn@Rn@SbA}@x@mAVy@CaAi@mAeAqAsBuAKg@V[fBc@gAmKGsBd@_DfAqBbBwAnDsAfRiCrBk@pAsArBgFxB_BlCg@jC\\bBhArEbGx@b@tANdJgAh[wIvAGp@l@@lMMfDmBxIcAdCCdJa@rAcBZwH@u@iAsCyJ{@oAy@a@_AD_Ap@a@fAA~@VlA`HxNqAn@cKxAo@f@I|@RVl@LvKuAv@TSV{@TmLdAIl@PXbAHpD]pBB~ARr@^\\hDtBvCRz@Ox@iCz@?l@jAtCb@Lx@CXX?RS^aBAq@VL`@t@XBd@ML{@@oBo@cCj@_BnBmCfBo@hAq@xCo@vFAbDl@~JUpDu@nCm@Py@c@kBiBs@{CgBq@o@TaArCqB~Ba@@aBi@_@H{AnAkA]q@uAQ{AfAqCf@c@rBq@dCLnBwBAe@kAoBs@UkBPeBjAs@PuBEmCk@}Dj@oDxBk@tBqAlAw@bBIjAx@bBl@zBb@f@xACZWp@_BfAG|@e@b@Df@b@l@bEKtDGNyARSv@CpATh@nCzBv@Xd@A~EiBpAj@t@B`DoAt@w@l@qBjDgDXu@FcAUwCyAaCaAiDe@q@eAi@qGgAqJt@}BbAq@|AqAnAQl@x@dDn@tE~@pAtATl@OR_A`@e@`I_B\\N\\lAb@X`C^`AU`@wA@aCmBoE_@c@cD}AgEGcCx@cClCQjADnAd@lBt@`B|@r@lBt@xBLlBu@bB_DEmBs@wBmA}@yASwBXy@|@]zADnA|@dBdAn@xACbAi@h@iAHuASo@e@a@sBi@s@HwAxAQIFk@v@uAjB]lBR`At@p@bBNnAGt@oA`CsAx@gBJeDiAiAkAcAmDEmARkAhCkCxBq@|DHfD~A`C|EBnB]hBkAT_Ca@SOYiAi@WgI`B]Z]hAe@HkASaAyAk@sEs@eCBg@xA_Bz@eBx@g@`B]`Jg@hEr@tBbAh@fAx@zCnApBPpAApBw@bBuChCs@|BmC|AyAT_Bq@uFjBiAYmC}BOk@NqBtAURc@HuDm@}Di@g@e@IqAl@gALi@tA[ViAFe@i@u@oCg@aAEw@z@uBzA}AXyA|@eADc@{EqNo@yBOyAl@mA`AYpAV`B`Bj@MBa@wC}HaAaBcBcAqGiByBmA{BcBwA_C{@eDIwAH}@~@{AxDkC",
+"average_heartrate": 151.9,
+"average_speed": 9.546,
+"source": "strava",
+"streak": 1
 }
 ]
