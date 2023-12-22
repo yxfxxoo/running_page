@@ -23368,5 +23368,20 @@
 "average_speed": 7.438,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10414536642,
+"name": "Zwift - Group Ride: WPJR | Social Ride Coffee (2.5-3.2w/kg) (C) on Neon Flats in Makuri Islands",
+"distance": 36017.1,
+"moving_time": "0:59:46",
+"type": "VirtualRide",
+"start_date": "2023-12-21 12:16:03+00:00",
+"start_date_local": "2023-12-21 20:16:03",
+"location_country": "Temotu, Solomon Islands",
+"summary_polyline": "dby`Au`fs^EnAs@h@KjCaAtACv@fHpCHdFnDpBpCy@vNn@`E`ClEiJjEcCp@kD~V`ATv@k@bJwKjLmCByGkB}FEkBwAfDoJpFaE`@sHUiAP{Ht@gKlB_C|CCnJpLfHh@r@kE_DwEe@eBxBgN~@sBzAaAnGDtJrB~G`N|HdEfAbGkBpBj@`F}@p@hBlBMrAiDb@E_A~@s@[}AgCEw@kBg@VXxBs@lAj@bB]ZmBu@@}Cu@yF`BkAs@cCgCr@NfDwEdAi@nGTbAdBvAjCf@xAxClIsBrCb@lBhCzBzJpBxBjAC?{Bl@mAaB}IkA}@aA_DhBcEoCc@eBiJeASu@fAl@pE_Ap@nBvBQhAcDh@O}@`As@[kBiC?_AiBYRTnCo@z@p@pAy@j@_BkAF{Bw@kGbB_As@iCgCx@T~CuE~@sAlIaBZuE]eAjC_Dt@cN@kNmAgL}IqCgDyDWcClAmL[SrA|@\\Cv@oBd@[Od@oAg@a@Ey@cDM[j@CbEu@p@EzBeA|AAx@bHlCF|EpCrBtDq@fNl@bEhCt@o@~CqHfEeC|@yD|V`ATr@e@~IsKnLuDAiF_BqGGkAg@a@}@|D}J|EeDb@sHUkAPgHz@iLhBoBtCCz@b@fHbKxAh@zEHx@cE_EkGE{AzCwOvBcBpCMnN`CzG`NdInEfA~FoBdCn@jE_Ax@lBlBOlA}Cj@U_AbAu@]iB{BDeAoBa@PPrCm@p@l@bBa@`@iBu@@}Cw@eG`BgAu@{BgC~@ZtCyEbAm@|FPxAdBvApCj@pAvClIsB~Cl@zAhBnCdL|AbBhAJHmC`@sBuAiHqAgA}@mDjBqDkC_@aCiK_Bh@f@jF}@t@nBzCe@t@gB`@y@i@dAgAUcBsCQe@aBu@XV~Bo@nAn@t@Ih@i@R_By@DyCw@_GbBeAWmBa@WcCx@^|BOd@kEr@wAvI}@XcGYk@dCiDz@eN@_NeAqHkFcHiHcCQqDlAmLUKnAz@XBj@aCr@O_@b@w@u@iB}CE]pFs@d@IfCgAjBd@hAfGlB?vEtCvBxDw@rMl@nEjCl@a@jDgIjEgC`@}C`@WpVjARp@c@vIoJdL_EZkGiBiHQmAmAhDoJpFkE^oHRoMkBe@]f@`@rEyAlCvCjDb@UTmA@oG_BeFL_Li@gAmBY_FJUrFm@t@}GDe@~HyCxBu@pByAfAUtBJhBz@r@lQNfFdB",
+"average_heartrate": 151.2,
+"average_speed": 10.044,
+"source": "strava",
+"streak": 3
 }
 ]
