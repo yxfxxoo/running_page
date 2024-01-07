@@ -23698,5 +23698,35 @@
 "average_speed": 3.437,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10505414538,
+"name": "Zwift - Richmond 2015 Worlds Reverse in Richmond",
+"distance": 2653.8,
+"moving_time": "0:07:39",
+"type": "VirtualRide",
+"start_date": "2024-01-06 14:24:37+00:00",
+"start_date_local": "2024-01-06 22:24:37",
+"location_country": "Richmond City Hall, 900, East Broad Street, Shockoe Slip, Richmond, Virginia, 23219, United States",
+"summary_polyline": "ybcdF~trwM|@mBzBoEh@{@NCb@PfA~@RJfALVFhA^zAz@p@TVPj@j@XNXH\\BTUjCcFnCyExAyCdC_EdBgDXs@DQ?QEQSY_CsBiF{Ec@c@m@u@MU?MD[Pa@bAiBjBuDpEmIf@cA~@uBNSR@r@l@pH`I~A|A\\P\\GVW`CaF`@_ADYEUKO_A{@",
+"average_heartrate": 95.1,
+"average_speed": 5.782,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 10506062914,
+"name": "Zwift - 02. Get In the Zone in Paris",
+"distance": 17998.9,
+"moving_time": "0:38:23",
+"type": "VirtualRide",
+"start_date": "2024-01-06 15:22:57+00:00",
+"start_date_local": "2024-01-06 23:22:57",
+"location_country": "Avenue des Champs-\u00c9lys\u00e9es, Quartier des Champs-\u00c9lys\u00e9es, Paris 8e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75008, France",
+"summary_polyline": "uegiHmxcMmA~FSx@AAADkCfM_BbHaFjUeGbXoEvSeGdX}BzJGh@@j@Rx@J~@?j@Ih@Ob@WZ]L]@MCMIYYGQMg@EaAHk@Le@V[VUf@SLIP_@Tw@pD{OhI}^xKqg@dAqE`AwEbNgn@LgAAWGWQk@Ua@g@o@k@_AISCSAU@m@V_E?aA@UTqAtMem@Ng@JMNILANB\\PbGdElDzB`@XFHDPG^_Hj[uElSaAvE[jAKNKDM?uDm@]Ea@AOBMDMLKPOd@qT|bAmFzUaC~KsI``@sCxLEPCd@@d@VfAHx@?RKx@O`@UXMHYH[AKEYSIKOc@Ig@AS@i@He@N_@R[VSf@SJIJMTu@d@wBdEsQtCuMxBqJhR_|@`Lsg@L_A@UIm@ESSc@yAwBQ_@CSAi@ViE@oABg@jNqo@HUJOLMNCN@^PhFrDrEvC^XDNCR{Gd[gD~NwB|JW`AKRMHO?wDm@c@Ec@?ODOLKPQh@iQrx@qKbf@yGtZuGnYETATBj@XrADl@Cl@ETGRS`@YV]F]C[QKMWw@Ei@@k@BUNe@P]VUt@]JKHQNe@bGqWrAkGzD_QlKof@`AaE~Omt@RkA?[Iq@IWWe@s@aAa@s@IQEUAm@ViE@yAHm@f@cCbFgU",
+"average_heartrate": 113.3,
+"average_speed": 7.815,
+"source": "strava",
+"streak": 2
 }
 ]
