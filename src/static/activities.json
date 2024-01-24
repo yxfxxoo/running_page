@@ -23941,7 +23941,7 @@
 },
 {
 "run_id": 10605386440,
-"name": "\u5348\u540e\u9a91\u884c",
+"name": "\u6c38\u6e56-\u9a6c\u516d\u6751",
 "distance": 2431.9,
 "moving_time": "0:10:42",
 "type": "Ride",
@@ -23953,5 +23953,50 @@
 "average_speed": 3.788,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10612349062,
+"name": "\u6c38\u6e56-\u9a6c\u516d\u6751",
+"distance": 1583.2,
+"moving_time": "0:07:07",
+"type": "Ride",
+"start_date": "2024-01-23 10:03:02+00:00",
+"start_date_local": "2024-01-23 18:03:02",
+"location_country": "\u9f99\u5c97\u5927\u9053, \u6a2a\u5c97\u793e\u533a, \u56ed\u5c71\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "cfhiCwlaxTCBHILYb@g@L@PRL@X]JGF?VDvBPdAH^HTLL@NRJCRQNCzFNrACvBKb@@j@Cb@BbBInAIbAAbAK\\?ZEjACv@EP@RDFCNDLAd@OpAG~De@`BOpCQ~AOAC@BAADADM@a@Jo@?WNcBAMGMDU?EE?AK@@DJEXSBECAG?YHm@BI?IDM?I",
+"average_heartrate": 99.0,
+"average_speed": 3.708,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 10613073990,
+"name": "BKOOL - Durango-Urkiola: De Dima a Otxandio",
+"distance": 9095.7,
+"moving_time": "0:21:16",
+"type": "VirtualRide",
+"start_date": "2024-01-23 12:02:19+00:00",
+"start_date_local": "2024-01-23 20:02:19",
+"location_country": "BI-3543, Olabarri, Dima, Bizkaia, Euskadi, 48141, Espa\u00f1a",
+"summary_polyline": "iq`fG~qqOfCpAxBn@tAf@XFVApA]TCfA?`@MZ[l@cAX]vA{@j@_@XYb@k@Xm@ZoAR_@l@u@P[l@_CZm@Za@t@c@\\]fBcCp@wARYROXKn@K`AWb@YLMNWFk@Ec@o@eBu@eBSm@EYAa@Fo@HSh@s@r@q@`@WNCN?vAZTBPANEPQNo@Fu@Jm@JYt@cARs@ZcBDi@?g@Ai@Be@J_@P]`@o@l@w@p@aAN[XwAF_AA[IUMQc@W}@[]OsAmAk@UkCi@QISSI]Ba@DYL[NQNMz@e@b@e@NYHc@?gABg@Je@TWfAi@NO\\m@PgA@W[{BG_AL]NK|AQf@MTSLSTm@H]Fo@QkB@]Ro@hBqCHUPs@?{@E{@I]Wo@Ca@@[NWPQNERAbAP^@b@APCNGJOLWX_CF[HUNOjAKVIf@a@jAsAd@a@REX@~@Vf@FZATCXKRMTSd@i@vAoBLYLc@PgANe@ZUfAQ^QnAqA`BsBl@k@VMZKn@ORKPQhBmC|@aApOgNlQyOzGiGxDcD~UiTnE{D|@o@dAg@rQcHt@]`@[`@_@f@m@|DoGZc@^]\\WtFeDv@i@RSf@q@zBsEXg@^g@dAkAtK_L|I{Ir@gAjE_K`BkDn@aAz@{@pC{C`DgDbCmCrGaHjHeId@Wb@Af@DlB`@",
+"average_heartrate": 147.0,
+"average_speed": 7.128,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 10613224382,
+"name": "Zwift - Climb Portal: Old La Honda at 75% Elevation in Watopia",
+"distance": 6440.0,
+"moving_time": "0:20:52",
+"type": "VirtualRide",
+"start_date": "2024-01-23 12:31:28+00:00",
+"start_date_local": "2024-01-23 20:31:28",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "fg`fAsl}y^|BvGlAxCDLB`@CNGLc@`@W^EJIt@O\\kAdA_@p@Q`@Mb@Ix@GPyAhCeBbDy@nAELIj@Ed@Ap@@lALrAVxABd@BHj@`Ah@t@P^BPB|@DFDDVH`@APKJA`@[JOFU^qBFOJKFApA?hCHdA?HBXB^JbAd@LLd@TLJF@lAv@LJD@LLZNTLfANLJPVn@jBJJVBDD@NMp@BXLDF?XIRANV@HIPSX_@RWDWCOEOAOIOCWQWIQMeAa@G?]G]Ae@Ko@CQEI?i@O_@QYIGEOEQAe@@k@Ni@ROLG@UPSTOVSh@Id@Gb@E|@@l@Ft@Lx@BFd@Tz@Tj@r@ZF^?RD^XPVH\\ARUh@CPDZLJH@b@AzB_@NAH@HL@LQr@El@@d@Jp@Nb@^b@`@T\\BHBn@@PDDDL\\@|@DVJLLFN@FB`@@NFLP@NIZa@x@URaAh@WTKREX@PJRPLb@L@FJd@LfADfAEZ[v@QRc@\\aAVYRGFIPMZWpA_@l@e@`@a@Tu@T]?gBi@Q?a@Te@?GAIEKUOgAMa@SOa@M[?GBQBOFU^M^WdAM^UVWNWHEDKNCN?PPb@LRFBHJ^Nh@APMTYL?h@LxA|@^NRDl@?DCND^`@j@x@^Tr@Th@?x@UfAg@tA_@n@GHCf@CZ?PFJNP\\^jA^l@bAlAB@f@h@VPZZ@HERa@~@s@vDi@hBU~@ARHXNXZX@F?RG`AFZFF`AHNJJPDXMr@@JHTVVRJJ@ZRX^PDf@AjAYb@G^FZPl@L@FCb@F\\T\\JF@B",
+"average_heartrate": 161.1,
+"average_speed": 5.144,
+"source": "strava",
+"streak": 2
 }
 ]
