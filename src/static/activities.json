@@ -24043,5 +24043,20 @@
 "average_speed": 4.86,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10653246199,
+"name": "Zwift - Group Ride: Stage 6 | Ride | Tour de Zwift 2024 (C) on Legends and Lava in Watopia",
+"distance": 33503.9,
+"moving_time": "1:01:57",
+"type": "VirtualRide",
+"start_date": "2024-01-29 12:02:18+00:00",
+"start_date_local": "2024-01-29 20:02:18",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "pl_fAq~bz^rAI`BdDdDr@pAdBPtCuAlGb@vArDN|A\\|AuBjBy@\\bD~C{AgAzCxA|B`AcD~AsAaAgBJgAaAqA`A_DtB_@hAp@ZpBa@dBtAlBn@a@ZgCdBe@|BsBe@aBiCu@b@eCQkAsDyAzDkBNs@wDL[[Xg@~C]hDn@CjBj@`AfDhAr@y@eCqCCq@jCf@x@i@hBXz@sBtBhE`Cm@rAxDlD|CzDOvCsA`AaDhBgDuCwGqBaAgCf@gFKcAkAoDm@p@m@jEb@tFkAz@o@Go@mCu@cDxA_IqBpDgCzCe@~AeCvE`ArBK`DaA`CoChAInBx@c@fFRh@~AG`DaBdAThAzC{@tAgBTkBc@Y`@j@dHkAfDzBzEz@[OkCx@aAzAQxBjA\\|@oAbAX`CkArBn@~@~@Ql@qBfBeAj@aCfGk@RoCo@_ARc@xAD`B~AxDqCtAd@]jC{Bz@Xd@~AEN|@}GtCw@zIpB`IxEbFDrL{j@tNmHzBeA`A`CxHbPeEtAPVvAQpPqDbNEhJc@vAwKZkGwOmBYiBzBPbCbHdOgM`C{@n@Gz@`Ad@lKsA|@TuNnBKx@zAZlG[|Cp@`@nDhCnES|@aCp@VnDgALyEaEw@n@_CfFyDgFeMlImFsJoEe@kA\\M|Al@`BvBxAuCpCoCsAeBoDoAFw@~@?bAvAt@AfBxBfA}@fAFbAuFz@cEcCwBnALpCfGbRwE~H_@|BrCfGzAK`AqBhCm@jAj@j@`EKrD_B^YbCzCdD|A`@bFkBfCp@`DmA~AeDzD{DViDqDkKkBwAcHeA{L~AuDzFfBhJvAhBzAB`AiBdIeBxArBrD^~@cCKcCaCsEgDaBcEImCbAeC~C@rCzA~DdDfBvBLfBk@fB{CBqBq@yBsDyAyCz@i@~DjBrCzCMlAmCi@mBwCs@qB`BWQvAeCnEHjAnAh@xCgB`EmBp@aBGyCqA}@qA{@kDXqCjCcClDo@~CV|ClBpB`F_@zDgEGuAsBcIzAiAlBwBSy@wA_BmJtCoEnB}@dKu@fGjA~AtAdDnIC`EcEhE{@dCuC|A}GpAc@\\Z`@bH@vE}BtAcFhByA`DcGCaCgCkCo@sCoBs@mBhDmB|BeCe@wBvAuAa@}@iDlA{C|CoAbCLjByBwBeDyBN}C|AyFq@yDd@yD~Bc@hByBlC_@~BbC~FhBCz@kBrCu@pAz@b@pDKpDcBd@W`BFbAdA`AvCdBzFmBn@XBh@qDn@Hv@lGDtC}@",
+"average_heartrate": 144.9,
+"average_speed": 9.014,
+"source": "strava",
+"streak": 1
 }
 ]
