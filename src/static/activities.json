@@ -24388,5 +24388,20 @@
 "average_speed": 3.351,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10957356851,
+"name": "Zwift - Group Ride: Stages Turnt down Thursday (E) on Chasing the Sun in Makuri Islands",
+"distance": 25860.4,
+"moving_time": "0:57:08",
+"type": "VirtualRide",
+"start_date": "2024-03-14 11:31:28+00:00",
+"start_date_local": "2024-03-14 19:31:28",
+"location_country": "Bwuang, Temotu, Solomon Islands",
+"summary_polyline": "rh}`Aq{es^f@iAoBGg@g@sDwScIqEaHgNeGs@{By@cEMkBh@eApAuA|J}@bDb@~AbDxEC`Bs@vBmH_@sIiLwC[iAj@aAvA]|FmCl@^xEUv@gAtAzA~AnAxCK|CWn@mALqJ{CwQ]s@mA?iDfBcBr@qBfDkCXkHv@]hFLj@m@@aGoBs@E{CaAGOtC}@b@i@[KmDc@Me@hBiAJ[`@Nx@~AVGdAoCl@Yf@@zAqCh@KzA^f@`B@XwAd@KX`@AfA\\Zj@?VuAt@MbCjC`A_@Aw@cAkB`@[vAABWcDKk@w@v@aD?uFjB}AKo@yAWWc@TgCdAOTi@Qk@gAKYg@?wBh@k@nC?d@ZJj@}Ab@Dj@zEb@Kv@oAFYzAsCJ_@^^n@tBD`A{Af@DHzA_@tBVxGt@`@~ENdAfAChM`BnF]lIw@T{C}DFg@bAu@No@[}Eb@_@xAFVb@c@dHCtBJlDk@JwF{DcIaIiDMsBlAoL[WnAt@TF|@wBp@Yc@b@}@i@e@I_A}CEWf@AzDw@v@GdCeAzAAp@Zb@hGfBRv@Y|Cq@b@wEBkDvBc@dA@pDcAjBWjB~@dBA|AmCrAaDzFsF|AeAn@kBjFuAbBiEfAsCFaBw@gBBwCo@uJn@k@_@g@}BaByAaBi@sCz@qIeF}@?wBzAwBaAc@yAy@]_EtAcAGkAiAQ{CeAi@kEhBs@dBmAv@eJb@mCeBqD_Ai@sB{@m@_BQiFZaHoCs@}AN_CZw@jBeATmBUy@aBy@Y}Do@y@cASkDb@qCrC_ACkBgBuAsDwD?{BwB}ABi@]yDuH_D_J_E~@aDyJFkJsAiJ{@aBP_B}@cB^uBaAgBu@}Dp@{CA_AUa@}DsBGcHi@eDn@s@|By@bAkAlGk@xCzCdDvAPtAOvDrErApC]Vq@EiBsBaBVoBe@uBb@}@nAArAd@zAaBvA|AlEyArED`AyBlAYIsAVUx@Hr@rAxAC|B|@b@m@y@o@Ko@h@oA`DFBzDXXhAObDaBfA?hAlAlBn@_AlCFZ~Bi@dC`@^d@RdDxIlFPdAYj@kASiCReCcCu@qBa@?c@d@AhB{@bC}Aj@sAgAQuDYe@}@N]zDe@Z_@a@i@gDi@EU|Ci@NmAGj@vAo@tAQ~DNrChAxBtBtACvCTj@lA\\rApBfEnCfBo@~EjD",
+"average_heartrate": 141.9,
+"average_speed": 7.544,
+"source": "strava",
+"streak": 1
 }
 ]
