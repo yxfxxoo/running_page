@@ -24436,7 +24436,7 @@
 },
 {
 "run_id": 10990740104,
-"name": "\u5348\u540e\u884c\u8d70",
+"name": "\u6df1\u5927A3\u53e3-\u836f\u54c1\u68c0\u9a8c\u7814\u7a76\u9662",
 "distance": 1591.3,
 "moving_time": "0:19:18",
 "type": "Hike",
@@ -24451,7 +24451,7 @@
 },
 {
 "run_id": 10990877818,
-"name": "\u5348\u540e\u884c\u8d70",
+"name": "\u836f\u54c1\u68c0\u9a8c\u7814\u7a76\u9662-\u6df1\u5927A3\u53e3",
 "distance": 1392.0,
 "moving_time": "0:14:43",
 "type": "Hike",
@@ -24463,5 +24463,20 @@
 "average_speed": 1.576,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11000600840,
+"name": "Zwift - Group Ride: Standard | Stage 2 | The Zwift Big Spin 2024 on Greater London Flat in London",
+"distance": 34579.4,
+"moving_time": "1:01:06",
+"type": "VirtualRide",
+"start_date": "2024-03-20 13:16:19+00:00",
+"start_date_local": "2024-03-20 21:16:19",
+"location_country": "Leonardo Royal Hotel London City, 8-14, Cooper's Row, Aldgate, London Borough of Tower Hamlets, London, Greater London, England, EC3N 2BQ, United Kingdom",
+"summary_polyline": "oukyHxzMxDJl@`@f@r@JnAA`Ec@zEEfCJn@jAxDRzAJdCC~AuCza@gB|K}AxNu@fJSlEWnZFrBj@pGFvBGnOHjHGn_@LnGj@bJn@`F`C|LnAzD`BlD~AjCzDrCxCxAb@h@H\\AbAcDzXe@v@S@US}BmFsFqN}BuGaAsDO@@\\|@tDlBvF`FjMJz@@vFNNR?jA]f@?Zf@`@nBfAX`@^\\j@rRvn@|GhUB`AS~AArKs@jf@@bDHRJOBq@@oKh@s[F{MFYZi@d@Kv@D`@Q`DmDPi@@[kD{s@?gAl@}P?_CLk@VW`HFvEoArEM`KuAjDSjJC|AZvAt@~JpIlAdCtBnGnAvBxBnBxEhC\\^b@z@d@~Ap@jE~@bKjBdQ\\~BLhCCdEsBbT[fF_@dKB|MU~BSj@gCjEmEbJeHzMmFjJyIjB[SWeBq@U]XBjC[b@qG~@kSzDKn@LxDSd@mAf@WZKj@AxBcA`Io@pC_@n@k@Pg@_@uA_D_A_BiFuGy@qBy@yDw@qGg@qMaAiLk@}EQsLQgBc@wBkCsHqAyBsByE}AkE}GcPiDiJIe@He@HMpMsLPSJ_@wCgKsI_]CuAr@aNNq@NMp@Vn@vAh[ndA?~@S~A@|Ey@jj@AvCFdAL@HgA?_Jj@o_@D}JLm@Xa@rBM~CgD\\w@kDct@?{Ah@{O@uCR}@j@SzFL`FqAlEMbKwAfDQ|IGjCf@bAj@~JpIjAbCpBdGrA`CpBfBhDdBtAhAl@jAXbAt@xE|@vJlCfVLrDEzCmBtRa@bG_@dKB|M_@tC}CtFiGhMaMhUs@XcEn@eBf@[KKQS{Am@S[T@`CEV[ZiGz@oS~DIh@LvCAh@Q^uAl@QVKt@Bv@Ex@y@~Gq@tCUj@Y^a@Lc@WyAgD}@}AuFcHe@iAy@oDeAmIQaHSeD{@eKo@wFGiHKwCMoAc@wBmC}HuCsFyC}HwC{GqDgJsB_GEo@JY|MaMNUB_@aCgIiJu^Eq@DsAp@wLNm@ZM\\PX^\\~@l[tdA@^WpBA|Gq@vc@G|IN`@Lc@@aLj@}^D{JNk@V_@~A?ZSvCaD\\u@_A{QkB_b@j@iR@qCHk@X[xGH`FqAtEO~JsAfDSdJEfB\\dAd@zJdIz@rAtClIlAzBfCzBxEjCn@|@j@`Bd@dC\\lCt@nIpCbWHhDAhAs@nI",
+"average_heartrate": 143.3,
+"average_speed": 9.432,
+"source": "strava",
+"streak": 2
 }
 ]
