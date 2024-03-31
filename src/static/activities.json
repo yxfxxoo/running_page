@@ -24583,5 +24583,20 @@
 "average_speed": 0.821,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11068279597,
+"name": "Zwift - Group Ride:  Standard | Stage 3 | The Zwift Big Spin 2024 on Mighty Metropolitan in New York",
+"distance": 21014.8,
+"moving_time": "0:41:22",
+"type": "VirtualRide",
+"start_date": "2024-03-30 12:19:43+00:00",
+"start_date_local": "2024-03-30 20:19:43",
+"location_country": "East Drive, Manhattan, New York County, City of New York, New York, 10026, United States",
+"summary_polyline": "gx~wFfckbMg@yAm@c@w@Lg@v@Gf@JnAfAjCFh@Gj@O`@w@`@w@[wCcDcEyB[k@EmADs@pAgFt@cBp@e@fCw@v@GrBP~@Kh@w@fAgE\\i@ZKd@BhAj@fFdEdHnEhCnBv@lAHr@Gv@{@zCGx@FZ^j@vBrAh@t@Fj@k@xBKdAFb@`@p@fIvG`JxFtElBjM`EjB`Az@bAZbADnAo@lGW`@c@VoC]m@@q@fAU|A@b@Zr@zBtAtBzCT~@?xBPn@ZVtAb@|Dd@jBOhBk@f@oArBgJh@aB`@g@z@k@|Ae@r@?`B\\lC`A`GbDrOlKdGfFdAxAXnAA`@Wv@wBjCWt@Dl@tAjENz@IxAo@|DOxBJj@pAh@tB\\p@AfDmCvBMdA}ARGlAt@\\f@L^Av@UdAkCxFa@xAC`Ah@hD?l@S\\yAfA}@~Ba@xBBhA^z@v@v@fBfA|B`AbAD`AYrA_Bn@kAp@oBrG{UfDuHb@}ADcAGa@]u@y@y@sD}BkA_@}@A]P_AjB_@J[]gAoBa@_@e@?eAl@]f@uBpFo@|@aBD}@h@sAlA{@\\qEu@Qe@@m@NyBl@iDH_ASuAyA}EZgAfB{B\\s@D{@UeAg@_Aw@{@oEwDsHoFkIiFqDoBkBs@kBg@aBE}B|@w@z@g@nAmCpLa@`@oBd@aBDuJcBkG_CaDkBy[uU_EuDcCeBe@QwB?iIt@mC@wA_@sEaC}LsHmAeAYgA?e@p@eEZq@l@_@pFs@j@HvA`A~@jBnAbFj@h@tBdAZf@h@xA`A|Dr@|AzKrGj@n@hAnC^f@x@PdDLfAX`AzAx@xDj@bB~A`CjA`AfCfA`AHtBWdDcA~@Bx@\\zApAvBdC^h@d@`BXh@bA\\nDOfA`@j@f@nJ~KlExHlBtB`Af@n@DnG[lDf@zA_AtAaBj@oBDm@SmCBaApAyHAaBS{@_@QeBKeBkAs@{@}A_EW[i@UeCD{GgB_Ao@kIqHgGuEk@u@y@eDEoAXcEK_ASy@gCmBwXuQ_C{@aGWcATkCvAqAK_EeCwE_GuAoAo@I}DLgBUiA_@_B_BmAcDi@Yo@FUP_@t@E`@RhBbAvBAjAc@v@o@NWIqDyDaEwBMOMk@@kBhBaHn@{@rAo@",
+"average_heartrate": 143.8,
+"average_speed": 8.467,
+"source": "strava",
+"streak": 2
 }
 ]
