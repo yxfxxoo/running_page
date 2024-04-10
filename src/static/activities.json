@@ -24703,5 +24703,20 @@
 "average_speed": 4.055,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11141801360,
+"name": "Zwift - Group Ride: Standard | Stage 1 | The Zwift Big Spin 2024 on Suki's Playground in Makuri Islands",
+"distance": 17530.4,
+"moving_time": "0:30:36",
+"type": "VirtualRide",
+"start_date": "2024-04-09 13:24:51+00:00",
+"start_date_local": "2024-04-09 21:24:51",
+"location_country": "Graciosa Bay Ward, Temotu, Solomon Islands",
+"summary_polyline": "flt`A{jes^GiAe@wAeB_BYy@Hm@z@{AFe@Ic@eAgA?kAZs@\\U|C[RUVoARStDs@Tc@Fw@Wm@_Aa@iHq@Gw@LsA`B@PWMKkCA][Dg@^ELh@NHf@k@`BRNR@`@z@ZBb@XT\\E\\y@P@d@t@\\N^Kx@y@tGg@|B~@|ANPUu@mBcAqANgAZWTCvCvApAGv@_@`@i@Cu@a@_Ae@M}BZwC[aC|@{EHgCvAY@mBiBpAcCFOGOsF}DQCs@v@QBuDaCc@IoFjHyCyAwDa@sA_@kE}B{@oBoA_Ay@]kB?u@a@u@sBuBkBc@aACqCdAoAIa@[W{Bg@}ADgAZgA~@gATaAvAe@Dw@SSa@HsBeAmAMq@fAeJEeBS[aAUyBqAaBsBw@IyEb@cB~AsCjAEj@j@vCGvDLxAj@p@pCbATf@@`Aq@pCr@zDfArB]hACf@|@`BQbB~@nBPxCz@zDHdDWnCBl@xCrJXHhDcApDvJnD`Hd@Z`B@dAjA|@l@r@DzBG^j@z@pCzAxAdA@rB{B|@_@rCWjA`@b@r@PlDfBbATt@Az@Qt@oBhAc@xAE~A~@~ArDdAdB~@~@@rDc@X}A|@kAXs@?w@}@_BCqB\\eAfCgBRaCSgEQu@g@_AmA}@Yw@Bm@z@{AJy@mAuAIg@Dg@Xu@^WnCWZO\\wARWtDu@Ve@Fk@Wq@aAc@gHq@Im@J}ATIxAFFUOKgC?a@e@Lc@Z?Zp@h@m@bBVV|@l@LHp@\\JZIXu@\\JXh@\\N^Kb@i@^OvGc@xB`A~BRlDfAzAJ`@Td@hA`@R|@OXa@g@_BD[x@s@n@?~@b@fAdA`@`AZzCl@j@nBXbAOz@i@fARFVSfBPjAQn@y@lAKl@PvAh@pAMrBX|@fCdCrG`Ap@ZfCjEpElELn@Kr@gAn@g@hARn@~A~A^v@C`Aa@|BFpAn@rAnChAb@^Nl@PrCz@`BH~@Sj@m@NmCm@aAEsAFcCd@kC?g@Wm@iC{BeBgAWuBx@c@?_BoA}B{@kBwAcABwAlA]D{@Qo@e@[e@My@s@]k@Bs@f@qBj@u@Iq@]_@o@Kc@?mBgAq@s@JwCzA{@lBkB|@sDGkC^eC}AgA[",
+"average_heartrate": 157.6,
+"average_speed": 9.548,
+"source": "strava",
+"streak": 1
 }
 ]
