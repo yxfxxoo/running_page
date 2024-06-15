@@ -25453,5 +25453,20 @@
 "average_speed": 5.278,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11650301173,
+"name": "\u6709\u6c271H30min",
+"distance": 54295.3,
+"moving_time": "1:45:14",
+"type": "Ride",
+"start_date": "2024-06-14 11:18:47+00:00",
+"start_date_local": "2024-06-14 19:18:47",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 142.1,
+"average_speed": 8.599,
+"source": "strava",
+"streak": 1
 }
 ]
