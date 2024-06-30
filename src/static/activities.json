@@ -25633,5 +25633,50 @@
 "average_speed": 4.818,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11767059229,
+"name": "\u6563\u6b65",
+"distance": 1208.1,
+"moving_time": "0:14:31",
+"type": "Hike",
+"start_date": "2024-06-29 10:56:12+00:00",
+"start_date_local": "2024-06-29 18:56:12",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 103.0,
+"average_speed": 1.387,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 11767062331,
+"name": "\u795e\u4ed9\u6e56",
+"distance": 15261.6,
+"moving_time": "1:18:48",
+"type": "Run",
+"start_date": "2024-06-29 11:31:12+00:00",
+"start_date_local": "2024-06-29 19:31:12",
+"location_country": "\u5357\u576a\u4e1c\u5927\u9053, \u4fdd\u5b89\u793e\u533a, \u56ed\u5c71\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "{{iiC_laxTS|DSlCKX?lACNKHm@[yC{@wIyBc@A_Bk@kDy@aA]_AAyBo@WDY^]zCOh@ONOEYi@_@]wBVoFHsAGk@BaFGURu@nBm@~Cc@~AiBrGW\\u@Y}@EWMy@Es@[]Yu@yBOGyCUo@]u@o@g@OyDWsF~@gFb@qBAsBWiCy@Q?gC_Cc@MYUo@t@AJ`@v@pAnARXN\\B`CFdA?jBW\\y@HY\\q@Ve@JmBDYJMPA\\FZ`@hAFj@BpDUv@sArAOd@K|@FT^f@^v@Jr@?n@UbAs@`Aa@XkB`@Fr@I^O`E@d@MtBDj@z@zBb@t@Vr@bD|GtAdBVMt@s@jAgCN_AAKOKw@Fa@QGW?QRw@KMg@MSi@F]f@s@@_@Qk@{@u@G[FO|@gAPqA?_@EIQEkBLw@?gAWgB_AW]I?EJ?fAY~GDf@JZrBlExB~EdAfBt@z@l@e@n@_A\\_AXg@Py@CQIG}@D]UGKA]Ng@?QEGi@MOa@@c@d@w@@k@Oa@{@o@G[p@_AN[RmAAm@QEoCNqAUqBaAMMQWAw@EGwAVq@XyALIEQu@USOAOFSZMD}@g@kAyA[qABSHGj@Bt@a@Xc@Xs@By@AeBSy@e@[oAMMSKo@e@i@cAM]Jk@b@WBQEe@q@QoA[o@SQUGcAD[GSWK}@WSeANQP@x@FV^VFVIn@MXUVaANYNQ`@OxAO^}@fAuAn@]XY^[z@Y`@oAh@w@De@AyAm@s@m@[y@_@gEAc@TcBVs@\\}A\\{CDw@KaBQw@c@q@o@c@eAQWUGQ_@gCJk@\\g@b@[x@Ur@]RSf@gAp@q@dAc@jAWp@g@`@{@EcBPm@|@aAXCf@PTGDa@Ku@B_@d@w@Hm@L[rBmCfAqBfAgAtAmBLCXJz@fAdAbAbDlCXX`@t@zDlDlEpEnAx@tC|CrA`AZh@j@Lp@p@`@T`@d@F@l@s@LARLNAvCjCxAh@lBb@bBLhCGfHs@nCi@vDZXFhA|@j@Tr@Br@Nb@?RFTTd@fBn@d@TJtC\\h@T\\GJYlBqGpBmINYXQbJBhEArBGl@KFB^z@XFLKV}@PkCT]\\GnBd@rALfBh@~@Nh@T`@BLJ`@NfGvA",
+"average_heartrate": 161.8,
+"average_speed": 3.228,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 11767062895,
+"name": "\u6563\u6b65",
+"distance": 871.0,
+"moving_time": "0:10:01",
+"type": "Hike",
+"start_date": "2024-06-29 12:52:13+00:00",
+"start_date_local": "2024-06-29 20:52:13",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 123.1,
+"average_speed": 1.449,
+"source": "strava",
+"streak": 3
 }
 ]
