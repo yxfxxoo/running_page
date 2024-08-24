@@ -26233,5 +26233,35 @@
 "average_speed": 4.714,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12218240127,
+"name": "\u53bb",
+"distance": 845.9,
+"moving_time": "0:05:47",
+"type": "Ride",
+"start_date": "2024-08-23 00:44:15+00:00",
+"start_date_local": "2024-08-23 08:44:15",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 90.6,
+"average_speed": 2.438,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12221112198,
+"name": "\u4e09\u6d32\u7530",
+"distance": 37518.7,
+"moving_time": "1:55:37",
+"type": "Ride",
+"start_date": "2024-08-23 09:46:52+00:00",
+"start_date_local": "2024-08-23 17:46:52",
+"location_country": "\u7554\u6e56\u6751, \u56ed\u5c71\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "edhiCwnaxTj@Xj@k@zGfApHD|XiAjAThXmC`IcBxRwFxMoAhDF|JsBzH{Bt@\\d@{@nCoAbS_Gr@R@q@fFkD~FqGjB_EpHRzCuCxC`@jFfJbPaC~RD`MfBxGpChCxB~HfBx@a@jIe@|@uArAgFlBeAlBMRoAvAo@`@w@jD^`EvAgB{AaFkBBk@xAeB_@_D`DkAP}BbCwD|DkA|Bt@~@oA~Ck@n@gAUu@aBYi@kCiDdAuC_CLcEcAwCpBaGd@aEx@yDo@e@aCn@{@]YcEmBmDcCzAu@AcDqG^mB{@yAaCDkBlAo@Wk@wAqD_@qAbBk@@qBgCaE?}Ai@sAiBQ}AbC}DpB_@jBjAzBqBDk@gAeDbHgJfG{DtJuD~DgCzNoMbNwM]y@{@TiPtPkJxG}BH}CdAgCSsB{CnBrAdBGrF_F@iI]WYd@WdDc@|@aDi@i@uBwAhBi@g@`BgE`CUByC~DkDvAm@CyCpBgAfB_Eg@W{@zAg@CAw@tAiAMc@gIhDmBlBg@~EsCLeA~@sBDo@~Dg@Zb@{BoAaDCmA|@a@dCfAr@[f@uChCeEb@kCzBmAv@}EmAeCo@OI`@hAbABv@oBrAkBF_@|B]H?wBx@mBiAaEwAsCoBuAk@cDsBL{@gBHs@rAOSeBTm@dCJpDkBNiGe@}CgBwAVoEq@IgBdAwDoHoEx@Rw@fDsA\\kAcGmJQoDm@q@wDt@}AIaExHgCCwHtAwA|B_IwBa@b@VxAo@V}AmBRsCu@Me@hAb@}@f@AGdDhBnBp@]_@{A\\g@zCpApDh@tA{BjHqAzCErDcIxBR~Co@^h@PnDjGnJy@tAcDjAGx@r@P~CoAvDtHrBmAj@J_@bEbBtAZ`AT~B]hBH~BqDfBcCMUf@RfBqAPOt@x@tBrBGn@~C|A~@pAxBzAdFq@~AErCn@KRuBtBInBuABu@kAeA@c@xAdAVhAq@dEmBfA{@hDyBhDq@fDu@PwBgAgA\\GjAtAxDg@nBX\\ZOp@sEhBFtAaAhCQh@yEhBsBpIiDwA|ABr@l@Pt@yA^PsAdDkAZs@~@FnCsA`@a@~@{@Rm@`A{@LB|CyBRsB|Er@n@rAeBj@pBbDt@l@{AHuCj@]NbIsF`F{AFgBmA]TbC`DfCLxDgA\\n@{T`KoQvPUhAa~@`iAkYh]_MtU}C~CwFrDo_@zKcd@|E}RrGeJfBa_@nCyQn@wJa@eIkA",
+"average_heartrate": 153.9,
+"average_speed": 5.408,
+"source": "strava",
+"streak": 1
 }
 ]
