@@ -4,8 +4,8 @@ module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     siteTitle: 'Workouts Map',
-    siteUrl: 'https://mytrack.club/',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    siteUrl: 'https://upload.cc/i1/2024/09/06/FoPcEj.png',
+    logo: 'https://upload.cc/i1/2024/09/06/FoPcEj.png',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
