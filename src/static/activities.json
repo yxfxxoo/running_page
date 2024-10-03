@@ -26893,5 +26893,20 @@
 "average_speed": 6.123,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 12555797942,
+"name": "\u6a2a\u77f3\u5858\u9547",
+"distance": 1871.0,
+"moving_time": "0:32:10",
+"type": "Hike",
+"start_date": "2024-10-02 11:16:41+00:00",
+"start_date_local": "2024-10-02 19:16:41",
+"location_country": "\u82f1\u5fb7\u5e02, \u6e05\u8fdc\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
+"summary_polyline": "kgpsCaf}rTF?I?GG_@QSEa@_@LACBB@E?FAA@aAi@[GKGe@]CKEGQIPi@Xe@BUJQ@MAGR[?FIKAGEq@EOEAE@OCQECCWCUKOB]AEIIEUGIIOAMRK`@?DKXE\\GFETEH?FGBEHC?QGUMMQYMEEC]@QA@BEAQVa@Pq@Vi@F[FKDkALm@Ej@@f@K^Mt@IHEXGHQd@ArDB`@BMDiAQWECCBPDGUEAKN?Z@ABDAECB@BDEDB?C?BAAB?BCPFHH|@b@l@`@f@P|@j@^RVDNJJL^RJL`@LJ?d@ZPFXZv@`@NAPI`@e@b@cANSb@gARQF?LLKG?EE?LJGAD?GAA@D@",
+"average_heartrate": 73.5,
+"average_speed": 0.969,
+"source": "strava",
+"streak": 4
 }
 ]
