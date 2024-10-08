@@ -26926,7 +26926,7 @@
 },
 {
 "run_id": 12563503972,
-"name": "\u508d\u665a\u9a91\u884c",
+"name": "\u8239\u5e95\u9876-2",
 "distance": 6436.3,
 "moving_time": "2:20:19",
 "type": "Run",
@@ -26951,6 +26951,36 @@
 "summary_polyline": "gdhiC}naxTd@VvTf@fY{@r\\mDpReGbQmBjF?~TqFhA^dDiCrSmGp@X@q@jEmCtGiHhBaEbIJrCqCzCh@hFzIrO}BjQCxOxBtKhG`I|AzJiAbCqH|BoAhB?R{AvBkBpJxBmIkExAaC[oDbDgAR_CjC{D|DcA`Cn@z@sAtCa@l@cASw@gBe@_@aCoD`AyCqCNmDgA}C`CeGtAsJqDHu@Y_@sEkBcDaC~AcAQsC{FZsBq@mAiCGqBrAwAoBsDa@iA~Ay@BsBiCaGW_BcBUwBjBaDpAo@rD`ArBaCkAyDhGeIlEkDvNiGdHaFbE}EtQoOv@{@Mg@m@OwR`RyGxEqHjBwCQ_CuCxEhAxCyBnB}BIuHq@I]vDm@dAyCq@q@sBqAlBg@i@dBgEbC]EqC~GwEEyClBaAlBiEe@[{@|Ao@AAi@|AqAQi@}HdD_C`C_@nEiCPuA`AgBK_AbFa@@h@qB}A}DF}@lASxBbAp@[d@sClCeE`@gCxBuAx@qEi@eByA_AhAlBCr@kBrAqB@w@nCGkB~@uB{AmFsAeCaBw@g@cDwBD}@iBdBgAEeCnCDfDcBPaF[sDuBcBZ_F{C|@}DoHeEbA@k@hB[lBkCoGqKGuCc@s@mHb@mD~HaMlAqAvBkIuBa@l@^rAq@\\_BmBRaCo@_@g@lA_AV~@UjAeAKxC~ArBv@IYgB\\i@jI|BxAaC~LmAvD_IhH[f@nEfGxJ_BhBqBd@Q`AtEw@tDtHrCqAQ`FfBtA`@xBMhHkD~AkCG?fC}Ah@\\lBj@l@jBGh@zCvAx@dBpCnAnEy@`BBrCd@KZyB|AA|BqA@aAiAcALe@hBtBi@rEwB~Ao@rCwD|Iw@LsB_AkAb@tApFg@dCp@Hv@wEfDw@pCOn@qEvBiCzHmDD`@oA`AFv@p@Jb@kAj@?{AnDuBtADrC}GlE?nCqBXoBdE^hAdB_B`@hBlDp@r@iFv@YNfH}ClDqAdAqBNyMoIKx@z@jBShCmKlGyF\\yB|@Gl@xAjBMp@gA|@qD?eAnDeBh@p@lAr@nCyBrGm@n@cGzBDhBrAhBt@zEtCvGWfDkDwCuCeFcCQoCiDwDu@]_EgDsCHiDk@uEh@bKfDnCR~DzDt@fC`DdCT`IrK{@fGXtEs@vBhCbD}FgANqGcBoCgA}CoB|@w@vGaFfAoAfC{AYqA_D{BMXjG{@pCa`@~e@gMvUsJ|Gy[zJwHzAu]fD_SxGsS~CsUtA{Qh@_UgB",
 "average_heartrate": 128.1,
 "average_speed": 4.806,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12596399991,
+"name": "Zwift - Big Flat 8 in Watopia",
+"distance": 30167.2,
+"moving_time": "0:56:19",
+"type": "VirtualRide",
+"start_date": "2024-10-07 09:57:49+00:00",
+"start_date_local": "2024-10-07 17:57:49",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "bh`fAevdz^BkBz@wCn@k@|C_AbAeBH{AYiBiDqDUo@~BiCMwCnI{Sf@qDAqAa@kAsGcCw@y@y@uB@aBxFwLtAwEhCs@vCv@fAIt@o@pAoClDOfB_Af@cBA}AcDwFf@cA`Bu@l@@r@h@zEbIfAz@v@Gv@o@zA}E|AJvAlAH|EtCdBJp@Qn@gCbAi@fA?nKuAlSr@xAvC~CPpAXTjGh@|KyC`ABr@j@r@bF^xKMdCmBfBU~@NvFt@|CpBz@~BOnAn@|Df@`BtA\\rCnA`AfAq@bDwJd@g@p@G|BnAXfCVXnDB|@ZrAzB^`C?~Ac@~A{L`H_@r@UbCiClAaAhBb@hC^n@vAl@NrBx@vA]rBoB`@Kx@zBFPb@Sh@{A`AyCl@a@^m@tIf@xChA`DxEbFQtGNjDcc@jK}PdFg@h@Cb@lBfHkL|CeGr@iBGcBeAeFsGsCy@kCNoAb@iB|AoBbFy@`A_Bp@gPnBwD~@gDlBmBhD[tB@tBnAzKgB^[j@Rp@fChBPt@i@|@uHxF[~@CfBrAfFjBhCtEpC~GnBnAv@vEzKBZc@LyA{AaB_@u@N{@fATpCbGrQcA|A]dB{BjCWxBjB~Et@h@|Ae@l@_BbACjAk@n@Pd@x@\\vCK`EgBh@KxC`DnCfAZ`GqBh@~@gDj@_@`@HV|GJ`Cq@vB{AdAqErBeBhGyLn@_Hm@uKDgCz@_Hx@oCrDqC~@uAxAk@dAIfBr@t@ERw@iAy@`@UbBDd@k@Yw@kBOcAqCNi@xBk@R}@YoAoBiCe@uDaCq@cCEgD`@yA[Xi@xK_ApAo@S_@{@C_JnA{ASBy@|@q@pKyAx@o@eHgOUgAJmA|A}Ax@B|@j@j@~@rC`Kp@`AzFBnDa@b@yAFuJbA_ClBaJJsQ}@kAmABs\\fJgJz@_Be@{EmG_BiAqB_@uBJwDvBeC`GiBtAkTzCwEjB_C~By@UmAiBYyBNoBpDcIx@oGGqEe@oDo@cBmAiAGoA_AaA]}BJqA|C}J\\{D[wAaAyAqD{@m@cAoBuHx@yGqBaEGo@x@aAxC@d@iFd@a@`AIpE~Ad@p@?dB`C~@cAzCX~@ZP`CJpEc@`CoC@y@w@uASoAXw@fCuBPoAIgByB_GqFqEK}@b@qCr@}A~DuA`AcBFmB]eByDqEbCqCWwB`AyC",
+"average_heartrate": 142.6,
+"average_speed": 8.928,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12596781373,
+"name": "Zwift - Instant Inferno in Watopia",
+"distance": 10409.9,
+"moving_time": "0:21:46",
+"type": "VirtualRide",
+"start_date": "2024-10-07 11:29:40+00:00",
+"start_date_local": "2024-10-07 19:29:40",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "nj`fAo`~y^g@s@[Yo@]eCw@uBi@QIq@U_Ai@_@QwAaA}@}@g@u@_@y@[}@Om@Ko@Iq@@aAHq@Vi@`@c@jAaAf@YfCaBXW\\c@DS?]M]IKIMc@[q@c@MCKIQUGY?QPOb@M~@KHG@K?_@c@aEc@_DG{@A}@LqANy@Na@P_@h@}@V[f@c@ZUZQz@]NIzAc@NA^MlAS~@Kb@IjAIf@Kf@Ch@IvAOj@KTAh@MRAv@Wp@[f@g@b@{@fA}Cb@w@jAaALC\\QjA[^E`@Ap@@n@J\\Jj@Vf@\\`@b@~BhD~@hAXRh@T\\H^@NB^?^E`@C^I~AQ`@I^Cn@OnBg@LAlA_@lAYz@YLApDeALAhCw@LA~Bu@LCNK~@UbAM`@DNHLJHLBNBR?tBGnKGbAIz@Ox@wAxF_@x@S\\Mb@Ah@?lGC~@Kn@QT[NgAJcB@MDiA@wA?[AKG]a@Yo@mCgJO_@]e@UUYQMG]Gk@FMFk@b@Wb@KXGZCXHv@Lf@p@xA`EtIXd@PTDLANa@VYJ[FqDh@i@BwAPMFi@Hg@TSPMZCN?NDLFJJHLDZDLCj@Ah@GxGeAZAh@@HJ@LSPWJu@LyBRqAJMB_F^i@LUREN]tCy@rDIT[b@SFU@SAuAg@qCm@_@Kq@K]KOAaB_@MAa@MMAoDeAgBUsA?OBo@@yARi@B{ATkCb@yA`@EF}@TMJe@Li@Hc@?ICSSIa@Em@?o@@q@FaALm@HQVUbAWLKz@Wx@MLETAVK^CZIx@K^ITA`ASVAj@KhBK~@Sn@e@DIVWn@}@RUFCDId@WVAh@FtBr@R@RAPKHQDU@g@?c@MkE@y@Fi@Pe@h@w@bBeBPWLk@?m@E]Q{@Qi@Yc@QSa@]e@Si@OmAMq@AOCa@A}BCQC{A?e@Fs@Tm@Zw@j@_BzAqBbB{@b@s@NiAJe@@c@Le@BODINCR?PDb@",
+"average_heartrate": 132.1,
+"average_speed": 7.971,
 "source": "strava",
 "streak": 1
 }
