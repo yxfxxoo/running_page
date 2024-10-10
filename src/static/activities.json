@@ -26983,5 +26983,20 @@
 "average_speed": 7.971,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12613350212,
+"name": "Zwift - 3x20min SST Low in Watopia",
+"distance": 44720.7,
+"moving_time": "1:45:45",
+"type": "VirtualRide",
+"start_date": "2024-10-09 10:40:05+00:00",
+"start_date_local": "2024-10-09 18:40:05",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "byefAic}y^mCcEkHaDcEmHI}CxAkE@}EzCgIxBFyB|Kn@hBlAh@`AwB|@eKx@cCnB}CbCE@dCcC|E]vD`@tA`E~C`B{Bp@wC?oPbAoChAc@zArCeAhJXnKjAfCtBOrCwYbCiChA?b@|@cAlFX|AfALfCqBbCeGrA}GdDmBGsF|EsSpCkFzEwEnNdAt@dAHzDrAfDdEdBzFGtCbF`JEdFl@~CcAfBiB`A}DGaCiCmCa@yAxB_Cb@iCjBeAbCpBhA?lGwE{@}IhCwE^cEc@mBcDeECaGaD}DgDs@c@qDoQqL{IbDeBvDq@bGiHnCwDgAYgF{@y@wQAw@l@YbBjApPUhGdAbFmAbEqAXoBq@aAiC}@mMuAS_Av@YnAZ|C}@tBuBnAoBFw@gBAiIiC}A}HmKcMcGoOy@qJfA}JpDwDT_@pApA`C?bCnBpB?`Ak@l@mEsCoC`CwG`Ccy@xS_@jApBrGsAn@qJbC_Ih@{Ai@iHkIaCe@eD^gChBwDtHuV~D{ExBcB`Cw@dFrArMbGd@O~Am@`@q@y@HyGd@kAr@Z|B~IxAb@XcBeCoLnHsAfJeHjNZnBvAp@rBGpBuD~EIbLcFw@eFlEeU|Dy@vABrF`Bd@jI}BbL{@pXlGjA_AdC{HnNOlAn@ZfDfCjE[fA_Cv@TrD{@?yEgEuD|GiEiFeMhIcFwJiF[{@h@AtAb@pAxBxBaDzBcC}AuAaDuBTa@fBvAv@HvBtBhA}@x@DfAwCj@aBsAaEsJuLqEoFwEuA_FH{CpJcJcDgDAw@|Ic@Xr@e@tAkAk@JgHr@mAdDhKnA^`@}AeCwLfG}@jIwGzDo@|I`@jB`A|@jBBtCuD`F@pKc@Z{E}@oE`EkUbE_AfCV|EpAJlOgDdFQnXlG`Ao@dB{Gt@w@zLMtBv@\\lDdC`E[hA{Bn@RvDeAAoEaEw@f@uBtFsEiFeMjI{EoJuEk@wAj@?zAXdAfCrBsChCqCuAyAgD}@IkAx@OjA|Az@@pBtBtAy@p@@fA}Cj@qAiAsEeKeLcEcE{C}BuFAaErJgJcDiDEs@dJe@Vh@e@zAkAi@JmHp@gA`DbKdBZL{AeCoLlG}@nI}GlDi@tJf@tC~CFxCyDpFB`K_@^sEcAiFnE_UzD_AnCXtEfBBnUqDtXlGjAq@lCiI|J]zDt@\\lDnBjCXzA}CjBf@bCYn@mGmEgD|GwEiF{LjIaEeIkBuAaFf@ZjDbCdB{CrCkCwAmA_DgBG",
+"average_heartrate": 133.4,
+"average_speed": 7.048,
+"source": "strava",
+"streak": 1
 }
 ]
