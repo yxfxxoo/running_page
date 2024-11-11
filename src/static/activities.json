@@ -27433,5 +27433,50 @@
 "average_speed": 3.785,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 12863887334,
+"name": "\u987a\u5fb7",
+"distance": 2253.2,
+"moving_time": "0:09:18",
+"type": "Ride",
+"start_date": "2024-11-09 22:03:34+00:00",
+"start_date_local": "2024-11-10 06:03:34",
+"location_country": "\u5e7f\u73e0\u516c\u8def, \u5317\u6ed8\u9547, \u987a\u5fb7\u533a, \u4f5b\u5c71\u5e02, \u5e7f\u4e1c\u7701, 528311, \u4e2d\u56fd",
+"summary_polyline": "qtzjCij}qTAAK@SOeAJu@Lw@Do@Ae@HcDBsBAWGe@?Q@OFIBINUvA?`@APQNO@e@Ca@L_@VMP_@dAiArB{@~@ULOBQEMIgAkAcAaAKQ[WQ?i@Jk@AY@uBEw@Go@?gCOsA@W@A@s@I{BEaBWKGCIECiAL}@Dy@SgBKcAKwBOgBFkCLyB~@[Bi@BGAWUAGK{@W}AOeC?wASgDEM",
+"average_heartrate": 109.6,
+"average_speed": 4.038,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 12863889906,
+"name": "\u987a\u5fb7\u534a\u7a0b\u9a6c\u62c9\u677e\nSHUNDE HALF MARATHON",
+"distance": 21271.7,
+"moving_time": "1:28:52",
+"type": "Run",
+"start_date": "2024-11-09 23:30:10+00:00",
+"start_date_local": "2024-11-10 07:30:10",
+"location_country": "\u5929\u5b81\u8def, \u5317\u6ed8\u9547, \u987a\u5fb7\u533a, \u4f5b\u5c71\u5e02, \u5e7f\u4e1c\u7701, 528311, \u4e2d\u56fd",
+"summary_polyline": "{__kC{g~qTBIbByB|BiCt@cADOBOEOQ]kAwAaCoBmBwBsBmBKIMAa@BWTa@bAUr@kA|Cs@xBqBjEk@bAgA|AcFfGk@x@iAnA[d@g@b@qBbDqEfFuBnCkCxCmCbDq@`AgBvBiKhKgD|DeA~@_AdA{ExEiAbAaDjDyBrCoIbJ_BhBcBhCwA|Aa@r@CL@LJb@nBrFhAjERdAd@`B`AhFT|AXnCDv@Hx@N~B\\vHBjCCrAB~CGlGG~DYlFEtBKvAKfDKnE?dBCNILk@^s@RSVYbAMpAB^b@rDRzBP`A@N?~ADd@DfCApBHbFAt@QfBs@~Ec@`Ae@dC]jAS`Aw@nCmBzE[pAoA`Ee@~BKjBS|Bc@jCYx@U`@m@t@}@jCCXg@tBc@~CQzBOf@c@x@Op@Ab@W~BUjBWlAAj@Bf@DTLPh@b@`@~@TbAC`@[f@[Z_@HcADa@PkAdB[l@YhAi@`ESp@G`@gCxGeAdF{@rBs@tBc@rBI|@i@bDY`CiB`Fe@jAY`BSlBMj@eCvGOj@u@rEI|@}@lCMt@DLJHfBx@PTBFALk@dASdAsBpD_@b@cAdBgB`CwAdBi@h@_@t@mBtBKR@JB@LIZs@nBgC`@a@vBcDj@o@jBgC`CiEbDyGRo@l@oAbAgDr@iB`@{@p@gCp@uBf@yBNm@NyAR_AHu@j@kDTaCRoAJgBv@oDVQn@M~AJnBCxADfCGpG?p@Ed@BJE@CQKs@Ew@D{@CsNFeCGeCQcAI{Ba@o@@w@EsEaA}@W}FcAqFm@{DUeFIuEBuCJmETCBBHL@xAQvBM~HOpABt@Fv@NfDJrDXt@\\v@RdDd@HDBNYnA{@vCc@r@}AnBa@r@gChG_AhCs@~As@jBo@tAa@`B[h@WNw@B[JW`@gA~BgCpCuBnB_Ah@wAf@u@p@_@f@o@hBUd@STQJo@HYJc@b@q@rAeApAq@f@{BhAUPYh@{@vCgAnCq@hBKFM?sA[[Ba@f@cBjCqAx@M?MEcAq@yAu@eAq@eDcCoBoBgB_CYGg@HYA{CwBwBaAWQY_@aAyAQ_@_AmAm@gAy@qAkD}GaA}Aw@{A_@y@_AeBaBoDk@sAq@gCk@kAq@uBOcAUgCG_BC{BFqGn@gOZyC\\sBLgBz@cIJc@LgAtAkGFMHIN?tATh@AfOxBjEt@ZANMFMTuAb@eDlBqL",
+"average_heartrate": 173.9,
+"average_speed": 3.989,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 12867066057,
+"name": "\u987a\u5fb7\u534a\u9a6c\u4e4b\u884c Last Day",
+"distance": 151970.0,
+"moving_time": "6:12:22",
+"type": "Ride",
+"start_date": "2024-11-10 03:17:10+00:00",
+"start_date_local": "2024-11-10 11:17:10",
+"location_country": "\u5e7f\u73e0\u516c\u8def, \u5317\u6ed8\u9547, \u987a\u5fb7\u533a, \u4f5b\u5c71\u5e02, \u5e7f\u4e1c\u7701, 528311, \u4e2d\u56fd",
+"summary_polyline": "kszjCej}qTo@k@hs@qYbLaBtH`@`dAv[pNj@pU{CzaAau@fyBuvA|YeY`J{AEsElOwAnRnEfEwq@xN}Xg@gNnF_DvJaKz@oOAwqBxAaAxh@g@i@u_AtAai@B|CSn@a@aDu@gYU_`@rB}Zro@e_BjFyf@fx@c@hGqClAuCG}Dok@gaA_DoQPo|Crg@]pF{dApHk_@Im\\NoB|@H{@i@tAuV|CgKlLkPkK{IvFqXcDuN_d@qTxGsJqE}Ijv@mx@`v@soBn]ys@jd@{oAl_@woBoAPq{B_tAoAqDq@kQcDaUxA}L[cDyNoWwUeZcBoGbFa\\nRo@jFyV_J}DrBX{@Jj@}AwCwAZaB?pA|C|Ag@lCwPkFu@~@Ifa@oExUApG~AbFzUzZlNnVqAjPpDfV|@|UkJv[{@j[gGbo@qAEvC_PpA}@m@dTm@k@lCk^rI}q@rq@mxApWefBnZqiAdJkVdNsV~q@sx@~PeZpHqTvEoUnBeVH_U_Fgi@_GqTwHuQsPwV_nAmrAoYga@{|A__DgLeZeEmWq@iRhFcqAu@u~@|DemBcAkNuDcNoM{Qq{@kp@_\\m[aC{FPwA~RyLeLpEmI|GyExJYfSkAhGmCxDmPnGcAfBdElQ`I|O_Lka@vUgR`AgQhFgBnAgCg@aCaCmAt@CPqEfRyKdh@{JqOmr@hSuS{Li`@|R}H~JcHxHwIjLaTpOsLlM}PbHwRjTy}@p@kVvXtCdH_\\bOdDpRktAwJeiC`M{@_LySM}B`WaP|CgFza@e`@rh@qq@zZ{i@cCmC_G}rAkDsSrNmDxO_e@bNg~@|V_vBmDax@iL}`A}@if@_AaC_AiVuO}{ApOoHnIeHxi@am@fLzFlFuGd`@c\\xDmGlNwa@tEub@nDuM``@q~@hCmX{Dyj@tNwg@aAaOwKeb@sCoh@KkOtEyv@wDq\\n@_MhLql@db@_hA~@}JsA{LhmAaScG_TkDdAu@qBb@cE}A}DxKgFuJk`@wCgGe_@kb@_AoOrEwPbSwDfG}DjEgI|FuXvNkTve@}m@lNqMhQ_i@aB_d@zLka@pM{v@f@{XzCgYcKmUyGeGlG{Fw^so@z[_\\zbAapBfXcXyZa\\cCsUdI}@fIbBlMw@vM}LbRwFfd@IfK}DdBnAbGoAtF}ElJiDtJcQy@gJ`C{A~BwFlAkLzSgE`Mw@r@aVjLoXdB}RgO_I{SeFmHse@uBqE",
+"average_heartrate": 118.0,
+"average_speed": 6.802,
+"source": "strava",
+"streak": 7
 }
 ]
