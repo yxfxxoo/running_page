@@ -27658,5 +27658,35 @@
 "average_speed": 5.358,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12986371460,
+"name": "\u795e\u4ed9\u6e56",
+"distance": 17619.2,
+"moving_time": "1:31:09",
+"type": "Run",
+"start_date": "2024-11-26 10:03:18+00:00",
+"start_date_local": "2024-11-26 18:03:18",
+"location_country": "\u4fdd\u5b89\u793e\u533a, \u56ed\u5c71\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "qdjiCsbaxT}GgBgCg@iCcA{Bo@wE_AQJG~@k@z@Y|CS^OCYi@a@WiBZ}KLyAMeB@a@j@k@fBwBxJ{@`Ce@XiBWeB_@u@g@eA_CyCYq@Us@s@c@S_EYqCh@_Gn@eCLeBIgFkAyBwBy@YMQm@bAn@tAvAhAJZL`EAnBe@b@{Ap@gD^i@XAp@\\~@L`A@~DQf@uAvA]zABTn@z@Rj@H`ACz@i@nAw@t@gB^Bv@a@pIBvAvG~NvAdBp@c@~A_DPeAMW_A?SKKi@Py@u@]Oc@B_@b@s@B_@Ok@w@q@IUbAeBRsACc@w@CiANaAIyAc@mAm@_@YYzJBZ~@`CvE|JrAhBb@Q|@oAv@iBP{@U[k@Fa@OMa@PaAw@c@Ma@D[b@q@Dc@Mi@aAeAt@wAX_COOoBNiBSo@SsAs@YW[lJDn@h@xAnEtJz@zAr@|@VI`AqA~@}BHs@KUw@Be@c@AYRs@s@c@Mg@f@sAAi@Sg@y@u@FWt@eARuA?m@SGcCNu@IkCeAk@c@EpBWpGzBbGtBpExAbCl@h@hAgAdAoCJ}@MQu@F]OIo@Nq@u@a@KS?a@h@iAAi@Ue@q@e@GOx@wAVqAA{@yDHiDwAa@W]xJNx@`H`ObAjAJ@\\W^g@~@uBXsAIWw@@c@OK]T{@CKm@WQY?_@l@iA?c@Wi@{@q@H]v@gARqAGq@OGcCPaAKsBy@o@o@KVWbJDf@n@`BpFlLlAtATGf@i@tAyCL}@EQOK_A@UOE[PcAw@]K[Da@h@{@?a@Yu@w@m@H]x@sAN_AAs@a@IwBNcAMiCcAc@a@AlAWzGJhAzFdMbBhC^EbAqAjAaDEYMKcACSKGa@P{@GMu@[GYF_@d@s@@_@Su@u@i@GS|@{ARgAAy@mBB_BEwAe@_BcACpAWzGHbAjC`GnDfHr@z@BRITECFMAe@rAaA`AcCL{@C[OMm@FYIMk@N}@w@[MY@c@`@q@Fk@Sm@w@q@CWz@kAToA?s@SI{CD_B]cBy@QSGw@FOzA[z@i@h@eAHc@Bi@Iw@Sm@w@wAASXeAp@}@b@WRk@E}Eo@mCj@_@~C[p@YZ]hAi@IcD?cCWm@a@UkAmAIc@",
+"average_heartrate": 146.9,
+"average_speed": 3.222,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12986497134,
+"name": "\u56de",
+"distance": 3271.8,
+"moving_time": "0:13:03",
+"type": "Ride",
+"start_date": "2024-11-26 11:41:37+00:00",
+"start_date_local": "2024-11-26 19:41:37",
+"location_country": "\u9f99\u7fd4\u5927\u9053, \u9f99\u57ce\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "s_niC{}`xT@FPCx@`A`@`@NLh@XXFRJ`@F`@RdATjAJv@BhBGxD[lAOvAW|@UbA@x@JfADVDd@Vj@d@h@Xn@Dt@Lh@?LF^p@Z|@HNPLv@b@RDjAJp@LR@VFN?LIDKJi@Na@\\iA`@iBz@eCRu@f@qCTu@\\QN?h@BdCEr@Bb@Ah@BtAGdADn@Gd@JN@p@Gx@C^KHBL\\VRPBVc@RsATkAFOVa@HaAJMr@RjCn@L?l@JpBf@JHRZ`@P|@Jz@PjEnA`B^XD",
+"average_heartrate": 118.6,
+"average_speed": 4.179,
+"source": "strava",
+"streak": 1
 }
 ]
