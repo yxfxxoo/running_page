@@ -28843,5 +28843,35 @@
 "average_speed": 4.546,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 13526556256,
+"name": "Zwift - eFondo: Cat. B on Gravel Mountain Reverse in",
+"distance": 5506.7,
+"moving_time": "0:13:12",
+"type": "VirtualRide",
+"start_date": "2025-02-03 10:37:54+00:00",
+"start_date_local": "2025-02-03 18:37:54",
+"location_country": "Temotu, Solomon Islands",
+"summary_polyline": "npk~@az~r^rC?FE^?DDf@@FBVBj@Nt@JHBP?VEVINQNe@B[Ce@M_@a@W]G{@@YNUXGLCZD|BF^N`@@LCn@JNZLnA@PDFDBHBPIhAFNVPf@@RETA^KjA?JBjA@JD^@t@JJ?^FTHRJFFHTJ~@?~@IfCKb@MTe@b@cB`BSLKBW@e@AW@WLMVCJ?jACNQVe@N_@RIFITAXBVZ`B?VCJMTIFa@Pc@JgARK?WEOSEi@BwCAgAGcAOy@Ug@m@k@k@Yq@Ou@Ac@JYVO`@G^ARFfAGRMHODQ@{@AS@SFOJKN[p@]XOHu@@]Ig@Oi@_@OQQ[EU?a@Fe@f@{BBU@_@CUSWIEUEWAe@@]DO?OAMEMMIMKc@EeBEe@GSKMOISC_@TINGf@@~@APKPMLQFa@DeA@_@HSHQNs@p@WFK?WGa@QYYMUEY?[JaAp@_EL_ADmAGaAKi@]q@mAmAm@k@]e@K[B]LSZUVEJAV@n@XPLRBP?PCNKPUFMDQE_@Wk@AMDGDEHEHCf@BHDLTLx@F`CHf@JPPHRD`@ILIHQDOBe@EcB?k@DSLORER?PFP`@Bh@CrABRFTLNPJRDT@~E?NDlH?NE\\?LDlC?JEdA?DDb@@hB`@h@D\\EZOTc@Fa@Aa@I_@SUWM",
+"average_heartrate": 119.7,
+"average_speed": 6.953,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 13527266991,
+"name": "\u86c7",
+"distance": 26795.2,
+"moving_time": "0:49:08",
+"type": "Ride",
+"start_date": "2025-02-03 10:59:30+00:00",
+"start_date_local": "2025-02-03 18:59:30",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 138.4,
+"average_speed": 9.089,
+"source": "strava",
+"streak": 4
 }
 ]
