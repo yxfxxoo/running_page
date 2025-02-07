@@ -28933,5 +28933,20 @@
 "average_speed": 4.589,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 13555014525,
+"name": "Snake",
+"distance": 63012.7,
+"moving_time": "2:46:02",
+"type": "Ride",
+"start_date": "2025-02-06 12:25:05+00:00",
+"start_date_local": "2025-02-06 04:25:05",
+"location_country": "1407, Oak Street, Haight-Ashbury, San Francisco, California, 94177, United States",
+"summary_polyline": "smpeF~oijVeU~DK|GeN|Bi@lHqB|@ePJgDsFaXrBsB}EuSdBgAkGmIAoAgGeDSaAsGmCIkAgGcDo@qA}FmC_@kFof@gAzJsAnRR|SgCbBxChl@iDmj@BkAjCgAW}SxCaV]mFtFqB`@wHvHaCOsFvCyBEsFfCcACuG|CmBNuGzZ{Dz@_C[sEdDoBMoGrK{Bb@{H~GgARmHbDcBcC{[uHz@J~FwDbCEvBYqAkAqTfJ}BSaI`EyJkA_CpAyCHmH_LaQm@hBpCxEeBNcDaDgAt@pLdRyA~D^`EmC|ARbFwG|Fg@~EbAnEVlJ{@pBn@~EkAgGqPrByDaCo@tC}BtAFtGkKtBRlF~Cx@tAbGhCRd@pGhOwARsH`OeC]kHzIiBFeHnCuAB{AyA_EiBMlCo@jBnB?dE}DpBH~GwInBLbHqOxCk@lHwMxAoAcGsCBcAsHuCEu@eGzKeDJeGdEmGe@kYdKbBZvC_K~BeC_^nHa@dDxDy@~AqJr@}B{PqAo@oMhDqEfJ{E|@|Ejx@{AfF~@aEQmGrAMXvCEoDlFeCU{F}G`AjG_Bo@mG_Hr@cAcCKcFfIiA_@yGgHb@`Hk@WmGcIn@MjGeCr@_JzQrAjVmCrBvBzd@aChC\\rPkBfCfBz[oAlK[`Kb@pVqBbCTtLpD~p@tKpDI~FrAnErPjCyAzGxBdC~MeAvC|BlEsAfErC~@nEz]eExCyD~JsBz@uDlEoAB_H|IaBxFwFRkItRcCt@cAEyGxEkBzAiIpIiAx@gJlG}Hr@uD|H{AZcGtBmB?{IbCyBCyIzGiBf@uJrCqBo@yIvC}BSkXtBaBIwIvCuB@uPlGgARuK`BgF`DkAj@gClQaAj@vDlIvIzHdAdAtVdHbA`Ctt@fCtAv@rI`Hd@|AdKhYk@~EsEvFaBzDgJ}@qWmBgDrEuQ|@{EjK_@nDnCb@pDuA`EWzY`JbPvFr@fAbCtGdCfEuAx@mE~AcASi[}A{A{AwIZpYwCrAeBrHyPuP^yo@yD}@gAwBsMo@kB~BsFb@oEjSsARkDtGkAnJRrRiV`BkAgJmCqCs@gt@_EqXkBuIaHa@eAaI{Gk@s@yG}EaAw@qEgBcA_@gFkIGwB{DoJl@wCeDyF@wCr@yFtEqAbDoDx@ZvRsE`FW~R{KpHQvIaCjIl@`TQdIgBnDJhGcDxBo@dIaDzA_@xQiF|BUnG{HbCCrGql@lHqAiGwCIcOqRaB}OiHI}@gGwCCkAkGkCqIcCiDt@eBoDDo@pGcCdAXfU{AbIf@fOdEjBhB`QnCbAnBvFdH[rBnGvJg@bGhFtKKrFwB~DwH|I_BjHeK",
+"average_heartrate": 142.9,
+"average_speed": 6.325,
+"source": "strava",
+"streak": 7
 }
 ]
