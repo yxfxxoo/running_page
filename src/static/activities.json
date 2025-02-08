@@ -28876,7 +28876,7 @@
 },
 {
 "run_id": 13533406481,
-"name": "\ud83d\udc0d",
+"name": "\u86c7",
 "distance": 26169.3,
 "moving_time": "0:54:56",
 "type": "Ride",
@@ -28948,5 +28948,20 @@
 "average_speed": 6.325,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 13563288934,
+"name": "Zwift - Zwift Academy: Workout 4 | FTP Overload in London",
+"distance": 23383.2,
+"moving_time": "0:58:09",
+"type": "VirtualRide",
+"start_date": "2025-02-07 10:48:12+00:00",
+"start_date_local": "2025-02-07 18:48:12",
+"location_country": "Tower Bridge, Butler's Wharf, Bermondsey, London Borough of Southwark, London, Greater London, England, SE1 2LY, United Kingdom",
+"summary_polyline": "u|jyHzoM~VbPT]x@uEZAdHpDN\\OnBNV`ClApALv@W^c@XkALqAAw@[cB_@{@aAoAMm@p@yLXGjCn@J`AWjCF~At@xCf@fA^Xf@c@`@gAPaBF}C^uAv@}Ah@o@r@[n@JzAhAz@vAx@hCn@xDTxBFlBOpSJhAj@zAj@b@n@Ml@cAvB{Fh@aAh@i@t@?b@Rv@t@xAzCP~ADxFVnA~@RjDq@t@@v@v@h@xBv@|ITvK@bESjFe@rF_@`I@|XJ|DpBlJJbDK|CyA|D{CMcB|@u@Ae@{@a@gBQcFHaFEa@OYWByH|G}EnDkFzCqFtFaAzAsDrHmBtCAl@VPVUlFuG`CsBnCiAz@Ov@^@n@Q`@iDjBcBtBiFfMmBvDoBhGo@nCGhBV|C\\PdCCzAk@lE_CjCMZFVZj@tBj@l@zQlB|KNbAj@tAzCZ^`@NjBMzB_An@q@`@oAR_BDaB_@qG{@gHgByKGq@Dw@X}@h@u@b@OZRd@bBjAlJZ~AZf@\\F`@YNa@AmBqAoNQ{CJuF`@kEp@oCbAqApBs@tCEbAb@t@~Ar@xDZ|DGlBOp@}BlD_@xAElCJvHJbGLtAf@D`BiAh@Jr@l@`@bAfAnFh@fBx@bBv@|@~DlArE~BrKjCp@b@`BzBz@XRu@FwAHgFAmKJs@Te@`@YbE}Az@o@tAwEh@mDp@eLRmHBsDYiMn@iJQaJVqDg@eDcAkDc@g@kC}Ae@aAKaC?uCZcKVsCCg@mAoKk@qKc@gFeAuHoAeGK_DJ}FEqCo@mJY_CqAiH_I{^aF{b@{@gE[e@a@Sc@AeA^aClBcBrD_@\\e@FmBy@_JaIeA]c@R[f@mAjCUpBNvDCvB]lBk@zAw@hA_@XcCd@mDSwBkAgC{BeA{A_@I_A`@q@tAa@zBy@nI_@lAo@z@{@L}@_@qHiIw@e@[HYZiAbDi@jCMbB^nNCpAYnBW`Au@fAo@HwAMk@\\w@hAy@~BY~FeArC@nDLtBZ|B@tAqArIeAlP}ApJSlE]pPMn@_AlA[dAuAdQe@zD_AvEmDpNg@vCe@hE[pICtLTv^JhC`@|CdApCdB`Dd@`@t@RlAC`Do@TQOyDNcBp@uCxBwG|AwCpFqMvAgBtDsBLs@[_@o@IkDpAgCrBwFbHURSEKe@Dg@dCyDrEeJ|F_GbGkD",
+"average_heartrate": 152.8,
+"average_speed": 6.702,
+"source": "strava",
+"streak": 8
 }
 ]
