@@ -29053,5 +29053,50 @@
 "average_speed": 5.621,
 "source": "strava",
 "streak": 12
+},
+{
+"run_id": 13624086758,
+"name": "\u81ea\u884c\u8f66\u5927\u4fdd\u5065",
+"distance": 6286.6,
+"moving_time": "0:26:53",
+"type": "Ride",
+"start_date": "2025-02-14 11:02:53+00:00",
+"start_date_local": "2025-02-14 19:02:53",
+"location_country": "\u5a01\u65af\u7279\u9152\u5e97, \u9ec4\u9601\u8def, \u7231\u8054\u793e\u533a, \u9f99\u57ce\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518116, \u4e2d\u56fd",
+"summary_polyline": "udqiCcnbxT?AGJ^LDD@PVT?@@AB@IA@DC?BBC?D?EC^DRERORFP@tB?t@GdCa@RMr@OVKdAi@|@g@b@e@nAeAj@o@rBqCXu@n@c@NWLKJA`@\\RHHJRDLVRR\\XbAbA\\N\\`@~@z@j@|@lAhAx@r@ZFRX~@z@HLzBnBVl@RTDHr@T`@RZXFLTVnAhApMjMnH`HDN@NDN^^XXp@XdCbCd@j@h@^`C~B^XtAb@bBb@XDf@DpABbACdAOhCOdAOb@EpCi@nDTh@J^T\\\\p@ZhCVRFRPHLRt@Pf@NLt@b@hALN?z@Nh@TX?HELWZ}AfBwGlAoFT_@LILC`CCbBDbAAN@NCj@BZC~AFrAAf@En@Af@KLDFTTXJDP@JIPu@VaCDSLOJKPGNAPFnC`@zA`@\\LvBj@zA\\f@N\\DXLxCp@hD`A",
+"average_heartrate": 104.6,
+"average_speed": 3.897,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 13624706707,
+"name": "Zwift - Neokyo All-Nighter | Sprinting Challenge on Neokyo All-Nighter in Makuri Islands",
+"distance": 10941.5,
+"moving_time": "0:18:29",
+"type": "VirtualRide",
+"start_date": "2025-02-14 12:42:00+00:00",
+"start_date_local": "2025-02-14 20:42:00",
+"location_country": "New/Noole Ward, Temotu, Solomon Islands",
+"summary_polyline": "z~x`Ayves^IDMPIX?`@HTHHVJpAX~Bp@f@XHJFNBLA`@QrBB`@FLJJ`CxANDP?PEpAi@`@Ib@A|DRnBFxAJrAFNB\\PjBdBNHR@NGV[t@aBlAeDPa@T]LK\\UzBaA\\YHODSNoBFQJMNGd@C`H\\f@Hf@Lh@Fh@?lAIlCNhABPC^OPChA@t@S~ASNIHQR}AJOLKPCR?`EZt@CNELKT[FOJu@^kEN]ZSNEr@CfBQLIFO?Qc@eB@QHMNEb@ENCj@]PCNBLHFNVfBAPKLMHQBa@@MJEN@Pj@xDJ`A?|@I|@BNHHn@R\\RN@NGHKDM?OCMIMYQIO?OHM^_@H[AMWyA?ODMLI\\ENDFJTpAJHNA~@QP?N@LHHLXxAAPKNc@PMLGP@RJNPFRA~A]PILMHQBSCSKQoAw@KOGQ@QHMn@UBQg@qCGw@@SFQV[`@OPCP@PFJJFPj@hCd@~CNl@HLJHPBr@Cb@@NHFNCPINqAfBGNCR?PJb@XdAVp@JLp@^LNFPvArHBP?RINWXGLE`@A`@Fp@APELKJOBO?_@I]OWUa@a@[e@Q[K]y@uDQaAi@qBQ_@W_@YY]Wa@Sa@Ma@Ca@@_@FoAVkC`A_@Ja@DQAQEMIKMIOSmAESKOQKgBUc@Oq@_@Y]W_@Kc@Ae@f@iGCOMKQCgACoCUyAG_DUQCMGKMEOAQDa@Ry@D[@]C]K[Q[gAqA{@oA[u@GS?SDi@Ty@Xu@Jc@Bw@RuAPwBZoATi@PWZ]^Yp@Wh@I^An@@zBLt@PbAf@PDfBBxB^PHLN`BpDrDdHJLNJtAf@f@f@NHb@HNHZXp@VLHJLFPHt@j@|CBP?RINMJa@JOHMJKLGNAP@`@j@fD?NILm@RELBPTZhAr@HLBP?PCNGNKJ]N{AZO@OAKIIKCO@OBMJMj@SHM?OCMUkAIKMEMA_@Dm@JO@MGGOOaAGOOCQBMDGN@PTtA@PCNIN[XIPDP\\VJP@PCPIPOJS@SGa@Wa@MKOAQHkAC}@Ei@o@iE@SLMNEd@CPGHO@SY_BGQQGQ@q@^w@JML?P`@lBAPILQFOBu@Fc@Fu@DOHKHO`@]lEGd@EPS`@YXOHQBe@@cCOkAMS?OHGNS|AILMLa@JcANaATq@A",
+"average_heartrate": 151.6,
+"average_speed": 9.866,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 13625216757,
+"name": "Zwift - Group Ride: Standard | Stage 6 | Tour de Zwift on Coast Crusher in Watopia",
+"distance": 43265.3,
+"moving_time": "1:11:14",
+"type": "VirtualRide",
+"start_date": "2025-02-14 13:01:26+00:00",
+"start_date_local": "2025-02-14 21:01:26",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "dsefAgd}y^fBw@nEpEtKvAnFUdOgElHbB~E?j@d@MtAb@j@~Be@fDdA_@dAyCJYzAfF~DpCnHnAnA~Bl@dAoALcCrCEjCdBn@nCrU~HlHHZjAxAn@^dDiAhAoAc@}@\\WhC}HZwHqC_B~@p@jEQrDjCvBm@pDvHpElHcBd@gAOaBt@wAo@aC|Ay@fBN`CdCpBqBxCpBbEq@zEhB`@rBfAVrLMfJwGxFFxCeAnE`@bD`BpIm@vA|CtBt@jKa@tCgFtDsBhAaHtNeSfEuAdDsM_@gD|JaBKuB_CQgCuE}DfBaAo@p@yBo@wBhAmMoAmBYaI{AiBmG}@O}AlIqAjEsE|ChGhAPxGiA|EyELeDhCoH_AcBqEo@aA_AvAmEc@kFpEy@`A{@bDyITmGdBkCt@kFzEmC|EKdAu@PuL}HsDnH}BZeBcIoHi@^OzDqGBc@gKuDq@QqO~C_@tB_Cc@gCoAkAd@qFeAyEuEqCsDiEsHdAsGuBmIDeBi@i@_BUqHiM}OPuC|A}EIgA{Cg@wDzBIdAzBnAGhBrAlCk@tAgAAyIyVcEcAiA_FwEcAaDlBiBaCqDKq@iD_Jy@w@oH`D}CBiA}CqBsCe@uDmF}AZ}FpFcAY@mCcAk@iEbBaC[aBdA}@tB}EqAwDnCeEb@_CkAAmB}@OeAb@gAvD}EmAuB`DeJ^gH|GaC|HmAByEoC{FrBuAdC{@vJgBjBqDIoHiD}EnAeCKeDrCoFp@yDdH{FeFmFb@}EkCoE]kGbF}Fr@mAbD`BvCzDc@hAuBKoEfGcFvD^jFlC~Ec@pGbFvDiHlFk@hDyC`CLpEmArHhDxDFlB{Bx@mJrA_CzFoBlElCpAAhCeIlH{GnIUvBeDhFlA`AoD`Am@z@NBjBdClAtD]dEuCfFlAbAaCxAw@~B^|DcB|@ZJ~ChATdImGlAl@tBbEhC^bDvBAr@cBz@eAlB|@tH~Ix@j@dD|DP|A|BvDiBbE~@fA~EjEjA|IvVrAKf@oAyAcDNsAqBeAG_AvDeCjC^LbA_B`FK|ChM|OV~Hr@tAzKZ`HtBpHcAnDhExEtC~@lEi@jFrApAb@pCoBnBeDf@PnOzD|@PvJdHJv@aFzH`HE|AcH`B]v@zHfDEtKo@dAmFNoF|Cm@~EkBrCYtGiDzIcGvA^pFuA`F~@~@tEr@x@xAOfByBdEQnD_FrEyG`A_BiCgCuC_EtEoIrAPhBvGdAlA~AXdIlAlBiAjMn@jBi@jCbAl@nDkB`AfCvAtAbBCd@`Bm@p@yIhA\\tDaD|LoE`BuNdSeA|GgCfA",
+"average_heartrate": 171.1,
+"average_speed": 10.123,
+"source": "strava",
+"streak": 1
 }
 ]
