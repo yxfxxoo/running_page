@@ -29143,5 +29143,35 @@
 "average_speed": 9.026,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 13649879152,
+"name": "Zwift - Fun is Going Full Gas on Road to Sky in New York",
+"distance": 21139.0,
+"moving_time": "0:48:49",
+"type": "VirtualRide",
+"start_date": "2025-02-17 10:19:48+00:00",
+"start_date_local": "2025-02-17 18:19:48",
+"location_country": "East Drive, Upper East Side, Manhattan, New York County, City of New York, New York, 10065, United States",
+"summary_polyline": "wxzwFf_nbMs@{@wAsDe@i@_@K_CHiHmBoKgJqF_Eu@_A}@wDAaAXaEKcAYw@q]oUiBm@aGScAT}BpAi@Hk@MuBiA_BmAkGuH_AUwEH_Du@_BaBcAqCg@e@iAPSXU`ARlBbAzBBf@UbAo@`@YAk@]wCcDmEcCQ}@@uA|AiGp@qA|BcAxAY`CNbAGf@m@zAkFn@_@|@NhHtFhIhFrBlBVl@Fx@cA~DG~@F\\b@l@fBfAp@r@F`Ak@vBG|@Ll@d@p@|GpFzIxFxDhBfOzEvBhAp@x@\\~@F`Bs@jGe@l@a@HaCa@s@Fq@vAMdANdAxCvB`BhCXbABdC`@t@jAb@nEj@tBQ|Ag@`@}@nCqLd@aAjA{@xAc@hA?jATxF`CpKxGlMnJvChDZfACz@]r@sBhCQp@B^fBjGAv@m@tDW|CJx@RNxEt@x@_@`CsBnBMl@y@dCmGpAy@n@PvAfC`@XZGhAwB~@K`Bd@vDbCn@r@Xp@Dd@K|@g@bBmC|Fk@bBqEtP{AtEmAvBkA~@aB?qBw@cD_Ce@iA?m@^yBz@cC~AkAN[?eAe@wCFmAl@iBrBqEZkAAmAy@oAm@c@m@BaAtA}BXmDhCaEe@a@BUZEd@FhA|@vBbAbAbGtE|CrDN|@Kt@m@t@eAb@w@Iq@]wCcCyFaIcCeCoIcDmAq@}@mA_@mB@_Bf@iAfBsBf@_BDkAOaB@yAjAwGHaDRy@^a@bAOjDrAx@dAhApCn@fAnD|Bz@~@l@dAN~@KdA}@rCSfABnARn@x@tAlApA`JfFf@dABj@OxAkAlEs@xAk@P_Ag@kE_FyEmDaAkAg@uAGoANg@b@IlEh@nDoCvBQ|@wATIlAt@j@~@?hAYbA{BvEm@pBArAd@nC?v@U^gAn@Yd@}@rCUtA@bAb@`A~@~@vBpAlBp@rA?~@i@hAaBv@aBl@oBlF}R|DmJ`@}ABcAG_@o@gAoB{AcCuAqBO]Ny@dB[R]UyAiCc@Qc@D_An@mCvGe@n@oBPuDnCaFc@[TId@BdAz@|BvAxAlE`D`FhF~@Iv@uAvAeFHoB]kAW[yI}E{@y@wAaCIkAFu@hAqDL_AGaAi@gAeAqAsDaCq@eA{AoD}@{@oB{@q@IiEjAiAI{BiBm@aAiA}Ca@e@e@OkCDqD{@",
+"average_heartrate": 144.4,
+"average_speed": 7.217,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 13649982899,
+"name": "Zwift - Group Ride: Short | Stage 1 | Tour de Zwift on London Flat in London",
+"distance": 7246.4,
+"moving_time": "0:11:55",
+"type": "VirtualRide",
+"start_date": "2025-02-17 11:11:54+00:00",
+"start_date_local": "2025-02-17 19:11:54",
+"location_country": "Wedgwood House, Kennington Road, Lambeth, London Borough of Lambeth, London, Greater London, England, SE11 6NJ, United Kingdom",
+"summary_polyline": "_phyHj{TUzAHXPJpDhB`@TNNLRHVFx@?\\A\\GZIXWl@]f@q@h@OPKVOvASpEMrAIPM@q@IKHGXYpG[xEBRLHhBVNDHPBVw@xNo@fKI\\MTSHeBDeCb@_BPmCb@i@B}B?i@Be@J_Ct@u@Nc@@aCGkBC{K@eAB}ALy@JkAR}Bj@_DhAs@ZuCfAc@HQCQKOQMUI[?_@d@kDn@mGh@kET_CTsA@k@Ke@WYo@a@}As@i@[cCcBo@m@gCsEUi@aAkCo@{Bw@}Du@{Di@qDSqBc@gGU}FAqCD_F?aJDgI?iCIqDFmQGaCG{@c@sEGaB?}AH}DDsKDkD`@sIt@eI~AcOPgAz@sENgAPkDTyBPcCvAmU@oAAi@OkBY{AUs@c@iAOy@HcDHaARaBBmFCaAIaAW}BS{@My@?c@H]Xy@\\u@NWRSVKRAXBnBXhDb@hBZh@Lf@X~DjClIdF",
+"average_heartrate": 162.1,
+"average_speed": 10.135,
+"source": "strava",
+"streak": 4
 }
 ]
