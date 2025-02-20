@@ -29233,5 +29233,50 @@
 "average_speed": 10.217,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 13668558775,
+"name": "Zwift - The Classic in Watopia",
+"distance": 6066.9,
+"moving_time": "0:13:35",
+"type": "VirtualRide",
+"start_date": "2025-02-19 11:44:44+00:00",
+"start_date_local": "2025-02-19 19:44:44",
+"location_country": "La P\u00e9rouse, Temotu, Solomon Islands",
+"summary_polyline": "tuafAwuzy^D@FHhA~A`AjAf@|@JXCBJNRr@ZjBFxBL|@`@t@dAnAXV^RZTDH\\Vf@f@FBp@t@FB^h@b@b@^Rj@Lh@Bl@Cn@QLCpBy@vAcA^IVDNPJ\\f@jCn@pCRp@Xx@\\z@p@rAz@nAFBh@h@ZTd@X^LtAZj@?~@Qr@]\\YrAsAvBmC|F}Dp@u@\\m@Zk@`@sAJo@VwBj@}CRq@p@yANg@ZaBH_AAk@Oq@GSKMm@q@uA{@mAa@oAUcBMq@AWC}A?WBeA@{AJm@@k@JS@}@AQKKMEQBi@^wB@qACw@QoAYi@UQUKo@UuBe@cCgAyCaAk@KUCaABuBf@iAPe@Jc@Dw@?iAMwBg@QAa@KQA_@MQAcAQiCUsA?eBL_@JO@_A\\[TWZ[j@SbAEd@@p@PtAZnAx@jBbAdBlBhC`@b@f@v@P\\Vz@b@bCH~BFh@Nd@Xf@rA|An@^`Ax@`B|Ah@t@PPh@ZH@TH^B\\?`@CXITC|@[LKXILILEvAcA`@ITDNRRn@\\pBz@rD",
+"average_heartrate": 122.8,
+"average_speed": 7.444,
+"source": "strava",
+"streak": 6
+},
+{
+"run_id": 13668877629,
+"name": "Zwift - Group Ride: Short | Stage 5 | Tour de Zwift on Queen's Highway After Party in Yorkshire",
+"distance": 20125.9,
+"moving_time": "0:33:49",
+"type": "VirtualRide",
+"start_date": "2025-02-19 12:02:21+00:00",
+"start_date_local": "2025-02-19 20:02:21",
+"location_country": "Byron Walk, Low Harrogate, Harrogate, North Yorkshire, York and North Yorkshire, England, HG2 0LQ, United Kingdom",
+"summary_polyline": "o~ohI`elHsAwA_MnDcAh@uAhAyBlBu@v@Ol@Ft@dB|HLf@d@~@Lb@@f@k@b@m@T_BZU?k@UkAoAa@m@]o@oAcDOQw@`@}DrCyBv@uGzAYJCj@`@`ILf@d@|@f@p@dBfBJTNv@p@fEdBhGtClGdH`Oj@jB`A|DvAjJNBnJ}EXUTg@\\cANw@D_A@cBJYNOlCoALSA{@a@_DqB}K}CyQkEmMKq@Es@?gBW[_Dz@s@FYGaA}@iA_Bm@sAw@wBUGy@h@aCjBy@f@aD~@iFjAUTRtGNzA`@dAz@hApAlAX`@lAdHnBjGzEvJ`CbFtAlDr@|Bv@tDhA~HPJxE_CjDsBh@eAXiAJuA?}AJ[p@k@jBu@LMD_@I}@m@{DwFg\\W}@_EmLIm@Cs@?gBWYuAd@oAXu@BUKqAoAq@aAQWwAyDQIyDpCw@f@_FtAoDt@WJCh@ZdGJrAN`@b@p@t@z@tArAHP|@|FtB`HvJnSp@bBp@vBj@|Bf@rC|@jGHTPA|GmD|AcAj@cAZiAH{@?aBBa@NW`@]xBcAJQB[OyAo@{DoFc[yDeL_@oAIm@?sCW]{C~@u@FWGaA{@y@eAo@kAcAoCOUUBeFtDwEtA_Ex@STF~B\\tF^z@r@`ArBpBNh@v@hFrB|GrD~HdDvGzAxDnAtE`@zB`A|GHTPAnFsCnCaB`@w@\\eALuAA_BD]\\e@bCgANKHU?[g@mDkGq^qEuMO}ABeBOe@[Au@ZmAXiAFWM{@{@uAoBoAcDOWQBqDlCy@f@eBl@eH|AWJGf@TxEP~BNb@b@r@t@z@fA`AT^T`Ah@rDnB~Gh@rAfCbFpFpLh@pApAnFtAjJFTN@dKuF^u@\\gAN}A?iBJ[d@a@pB{@PMF[IaAm@cEsFq[e@cBqDmKKk@Eq@BeBMg@]Cs@\\eB^q@BUKi@e@wAmBk@kA_AeCSEqF~DmD`AiFjAOZZvHDj@Ld@lAfBrAnAZ^dAnGjBnGpD|HnDbHbAdCz@hCn@nCz@dF\\rCH\\NJ`HqDjBoAh@kAPs@LyACaAB_@H[r@i@fBw@NMF[I_Au@eFoF_[sEaNKo@Es@@u@Ns@ZWZP~A`CfCfDpBpBrEhDjB~@bBj@VVr@~A|@|DnC|MzA~FzAvDrF|KN`@BPCh@q@pAiI|MuAtA",
+"average_heartrate": 158.9,
+"average_speed": 9.919,
+"source": "strava",
+"streak": 6
+},
+{
+"run_id": 13669469111,
+"name": "Zwift - Road to Sky in Watopia",
+"distance": 18143.1,
+"moving_time": "1:08:29",
+"type": "VirtualRide",
+"start_date": "2025-02-19 12:42:16+00:00",
+"start_date_local": "2025-02-19 20:42:16",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "rgefAqr}y^jD`E|@d@bCf@l@`@xDzFp@h@lAb@fI~@lD?dEy@fHmCjCYlCh@bAf@hAT~BF`BKf@ZHTQfAFXd@XjBk@hBZx@\\Jh@Wb@e@JyBB[\\Ex@V`@vAp@fBvAjAvBX|@F|@GhAe@nCBj@X`@vAz@b@`AJz@i@~ANtAe@l@gAJ{B}@o@CgBlBCb@Xz@rBzAF~@Zx@YPaA_@q@TEd@n@vA?TwAv@Eh@Lz@l@h@pBp@Ld@EnBXlBp@dAhAn@n@n@l@lAb@fBp@h@vBl@`AtA`@XtBPnBp@`@EvAs@lBBp@_@v@?tAXf@^^lC`Az@b@AjAs@d@EfAFf@h@?nAMnAgDnS{@fD?z@Tf@dErErAvBdBlB`@lAbAbBtCvB`@x@t@hC^hCIJKG_@qBcAeByBaAaAMgAa@iAKoCwDwGmF_@?I`@hDpCV|@ETYEYmAuBu@iC}Bk@WW@KPFd@j@V~AvB~@b@d@fAhAbAt@xBKLKEOgAcA_AyCwAY?QLUhCNxAh@`CYxCVbCi@pBSpASxC_@vCD^d@HTWHsBx@uCTW~D}Av@qAN?BLc@~@wClCc@~@UzAEfDFhAXjAk@fA_@VsASoBJcEq@]@MXNR~@VfCzAjB^bBbBf@TbA?r@O|@{AN?@JwAxBkAj@u@Hi@I{AsAcDQgDcASLAPPT`HjCnB~Bl@\\p@DnAMvB?d@OfAcA~@?XLSRaACy@rAo@`@y@FaBp@cALyAMuAa@qBoAeAeAg@LARJTbB`A~@x@xApBfAp@bEVhB`@dA?f@UVg@t@Yp@_AN@@LcBtB[r@mAr@cGDcBX{BUs@Wa@BKJA\\\\~A?vBRpEp@fAVp@d@rBB`AQX_@DaAu@u@MiATo@\\gCvEi@nBo@hAY`AuEhGSn@H^\\Fv@oA~CkBfGyB~@Wb@H|@fB|@bA@RS?cAg@{AAgBj@gBlAqDxD}@h@Q^HRLH\\IdBqAtC?tAv@|AxBx@n@jAl@bD`AlEfCfFb@d@Ub@mAPLGtCOb@e@d@cAn@wBx@gGt@OZTZrH`CxGv@`B?lAU|AiAFD}@x@o@|@cBtAoDhA{HlAiHf@{Bv@yEr@[TK`@Vp@^LhDaAnC\\rC@d@`@TjA",
+"average_heartrate": 162.9,
+"average_speed": 4.415,
+"source": "strava",
+"streak": 6
 }
 ]
