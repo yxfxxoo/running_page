@@ -29413,5 +29413,20 @@
 "average_speed": 3.809,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 13723212338,
+"name": "Zwift - Downtown Eruption in Watopia",
+"distance": 20279.7,
+"moving_time": "0:35:17",
+"type": "VirtualRide",
+"start_date": "2025-02-25 13:53:21+00:00",
+"start_date_local": "2025-02-25 21:53:21",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "b{_fAqi_z^kBkAIa@HWbB_@tFC^^UnAQZ]Dg@UE]HeH`@aAVKLFVf@rBjIxAbBmAhCBvD_Bp@e@dAMzDHr@Xj@pADtFeBpG_AvDUfBLrRpENJGnAHd@`BfAj@|AKb@eFxC_AlASDq@s@uBkF_AyAq@_@eAM_CTs@b@En@Jp@p@vAdBz@DTa@t@}@t@iAb@eAiAy@O_@aBe@s@c@Yk@?q@Xc@z@@v@xAz@AfBvBhAK^m@^F`AKJkA^qCXe@MuAyAe@U_AG{@Vq@dAAj@XbBrFzOLt@M`@u@v@Y|A_B~A{@tB?f@r@vAv@pCf@f@hACh@c@f@uAfAC|@g@t@Jj@z@\\xDMfA?|A{AVSf@E~APn@tC|Bx@Xf@CzEkBbAj@x@HjA[nBeA^e@j@qBvBkBnAoBFmBMeB_BkCaAiDg@s@qAq@aGaAyIj@oCfAw@`BwAxAMp@t@nCp@vEf@`Ad@\\xAL\\OR_Ab@_@nH_Bn@Nd@vA`Bd@nBE^g@Hg@ByCiBeEc@i@}CyA_BMaCFuB|@gBdBa@fACnANjAh@hB~@xArCnAnBLpBq@fB_DD{@McAWeAe@u@qAu@qBGkATs@n@e@dBHzAj@jAbA|@pADlAa@j@s@RgA@w@[q@}Ay@w@Gu@JkAvASECSh@}Al@_@nBQtARrArAh@hCMpAeAjBe@h@q@VmBFuCaAoAqAeAsDCsAJs@Zk@lBgBdAe@lBUfDXlAd@tAlAp@lBz@dBAzASvAQXy@NmCe@q@cBYMkIbBa@XSbAQH_ABw@]{@gBa@mDu@eC?m@~AgB`AiBrC_AzIg@hCZfCt@n@b@`@p@~@jDtAxBTxCW|AyDzDo@tBy@t@{Ap@gATgBs@U@oFjBkAc@mCcCEiAPkAnAMXe@E{ALuAi@{Dk@i@g@MgAj@mAJ{@jBy@Ng@GiB{EQaBdA{BhAaA\\cBv@y@Je@aGuQY_CZs@bAi@xANxA~A^L\\SGw@sCqHiAcBuAw@aIcCwEgDi@w@cAqCUuAEwARmAd@q@dGiEl@m@Pc@Ei@Wa@aCeBGu@l@YrCSjDFLt@i@vAu@KQq@H{GPk@^a@XJVj@tBjIj@d@t@IPe@Au@yBmIO{@Be@~GiA~G{FnAo@vAQpGL`BLlBr@dAdBTfA@lAWn@aCdC",
+"average_heartrate": 162.1,
+"average_speed": 9.579,
+"source": "strava",
+"streak": 5
 }
 ]
