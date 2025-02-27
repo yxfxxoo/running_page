@@ -29428,5 +29428,20 @@
 "average_speed": 9.579,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 13731707305,
+"name": "Zwift - ZG25 Queen in Watopia",
+"distance": 46201.9,
+"moving_time": "1:42:04",
+"type": "VirtualRide",
+"start_date": "2025-02-26 10:36:29+00:00",
+"start_date_local": "2025-02-26 18:36:29",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "np_fAcy~y^hClJtFzDhKvDtEpKUt@yD}B{B|AxG~UyFnL|C|GtAOz@oBnCo@hAl@`@fJkBbARpDvDfCtGoB\\fA{DnAjMLdFtGvI_@zMvB`M}@hNhFR`MbRKhDp@vCzBTvDuFrUwPtO}Dl@aDwAaCmDkEmOaLpCoLaK_CgMcIuMg@kEhAoEgDqGvBcIrCyCdG{MXeFm@cNhB{LnGoG~Bm@pDl@Ts@gAeAfDq@[y@_BImA}C~CmCiCyE_@mDwCy@wJAdOqCw@i@{KrA{@m@|@qApMaCsHgQPwB|AiAnC~AzExM|MUn^dGr@f@FtEt@n@r@Y`AkGvAgAd@fAs@pGx@rBvYxHeA|EBhEwAxDVtEjFvHlFlBdGtHjPzAvQ}EjJhB~DIl@|ClC[|Cv@MpA{CL_@|AbFxDvE|JxCr@|@mAF}BrCIrChBj@nCzTvHbILxBzB^|C{@jAwCC_@nCgHZsIuCwA~@n@bEUrDpC`Cq@fDtGhEtIqAjAcGm@gC|Aq@rBZhBxBvBqB|CpBdEq@~ElBVjB~@ZpLIhIiGlHGtCeAvEd@bCzA|Im@~AbDjBPxCoOuAsGXgBeFOiE_DbBcEy@eCnDe@f@eAyGkCu@{E\\wCxAwBzD|A|CT`AwC`Bl@^tF{DZa@dBsGeB`@cDhCmChAgEjDf@fAw@gAiDnAmG}G{BwDkE~CmJGmAyBsBt@iCU{HhC}Av@uBPkBgAkA?qAfDeBjD\\f@oHtDBlAcAdAyJfE\\pD}DoAcDeDQsC}B{BTUkAfA{Ao@uAsDR_@iBvAwCt@eIoAgBwEq@_@gGuHKqGaD_AdAo@fFoAf@_Au@OmFeBg@cA|@G|EgAb@u@m@SwFwAk@}@`AQfFu@R{@cHq@o@wAb@J`Fe@f@eDiBeJGqGkLRiE{CyEqD}@k@sDsQuLaIdCaCpE}@nGcHbC{DqAQ}E}@y@gRF}@`DfAxNQpH`AnEgAfEoCPuAwAkBkPwAEy@`AQfHuEhCeByAKgJ_C}@eBZ{@dIqC|@cBhDx@`EuCbB_CGj@|A{AjE`@hFwEfDe@xAt@lCbBt@DpBcBvB{DxAm@nOsCtGcDfBcA|CoC~Ad@dEyB|KlAdBbAI~BkPxBmEbCc@`@nBkC`G]nErDvEnAUnB{FA}OdCeEfBrCcAdJRfKv@hCfC?|CaZ|BaCjA?b@|@u@xHx@h@pCgBlF_Q`DoBEqFxFiUvIgKhNhArCfLdFhBxEK`BxDrAr@vPZjDuArByD",
+"average_heartrate": 143.7,
+"average_speed": 7.544,
+"source": "strava",
+"streak": 6
 }
 ]
