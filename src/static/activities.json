@@ -29443,5 +29443,20 @@
 "average_speed": 7.544,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 13740770975,
+"name": "Zwift - London Uprising in London",
+"distance": 21179.7,
+"moving_time": "0:45:17",
+"type": "VirtualRide",
+"start_date": "2025-02-27 11:28:43+00:00",
+"start_date_local": "2025-02-27 19:28:43",
+"location_country": "Tower Bridge Approach, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1W 1DD, United Kingdom",
+"summary_polyline": "kjkyHrlM`MpBtQbLtCrBPELWp@gENOPBdHlDN^MnA?f@TTrBdAdAR~@Sd@c@^wAJcBG_A[sAYm@}@iAKWC]ZiHRmCNIdCd@NJHT@ZY`DFrAl@nCn@tAZZREVY^}@R{AJ{DRu@d@iAn@cAf@e@n@Ir@Pf@\\d@f@Zb@h@hAn@zBl@tDRjBFrBM`KA|GHr@b@tAPVZV^BXOp@mAvByFx@uAZOZAz@Zn@n@d@t@x@tBLxADpFJz@NVXNb@?rCk@v@Gh@Pb@n@XbAVbB`@`EL~BR|J?tFQzDi@dH]nHFjFErK@lDHbDrBlJF~@D|BEzAIx@gA~CKR_@J_CU_@Lk@b@_@L_@?[QKQi@qBOmAEwB?cCFoCCa@OWW@yGbGsFbEyDvBiAv@sFxF}@~AaDtG_AzAm@t@Ih@N`@XM|FiH~BmBdDqA\\Cv@XDj@Kd@YTaDfBs@t@m@~@_FxLkBrDmB~F_@xAY~AEr@NzCPf@`CJzAa@zFwChCAVPPb@h@lBVVrEr@NP@^g@tDB\\nFrCZd@FXDZ?x@A\\Qr@g@~@mAhASl@Iv@]lHIRMD{@GKPw@bOHPJDvB^HR?XaBzYM|@MRSF_BHqJpAaFNyEpAwGMwK@yDTiEx@_Cx@mFxB_APOC}@u@u@YKUcD{HgEqKcCgHq@sCIUODDr@|@jDnBzFzE~LFXBx@CnDJt@`@DfA[b@ANLJRRnATj@p@J`@R\\`@Vj@x@rCdUxt@~B~HT|@?`@U~AA^@dDIlIo@ta@AhC@r@FTLGDq@?sIl@y`@D}C?sENq@^_@|A?NKlDyDHWB[_AoQkBka@@iBj@aP@iCDYHS^QtGHvEmAhEMlKwAvAGNKPoA`BuYIWaCe@IYt@wNNa@hAAHa@^kHLaA\\m@r@m@\\g@Vo@Lw@EwAWk@]YuE_CIQAWf@_ECW]OiDg@yAROEMQCW@Y\\_A@WGUWYYIaCJwFtCmA^_CAOGK]U{DNoA|@sDbBcFd@gAp@iArF{Mp@eAp@u@fAs@hBy@N[B[CKi@]_@AuDxAgAv@}@z@_E|Eq@`AMJQ@KSCi@Jc@vB}CbD{Gx@wAnAiAlDwD|FgDzEqDlHoGXFPf@GtD?vBH`CPhAj@pBZN^?^Kx@m@^GfBVb@GtAgEH}A?_ACyAM{AgB{HGq@IaHBwF",
+"average_heartrate": 140.0,
+"average_speed": 7.795,
+"source": "strava",
+"streak": 7
 }
 ]
